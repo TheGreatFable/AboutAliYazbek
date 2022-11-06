@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: Ali Yazbek
+  version: 1.0
   folders:
 
   - title:
@@ -56,7 +56,7 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: Installation
+  - title: Files
     output: web, pdf
     folderitems:
 
@@ -72,7 +72,7 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-  - title: Authoring
+  - title: Social Profiles
     output: web, pdf
 
     folderitems:
@@ -128,7 +128,7 @@ entries:
       url: /mydoc_series.html
       output: web, pdf
 
-  - title: Formatting
+  - title: Information
     output: web, pdf
 
     folderitems:
@@ -176,7 +176,7 @@ entries:
       url: /mydoc_workflow_maps.html
       output: web, pdf
 
-  - title: Handling reviews
+  - title: Comment
     output: web, pdf
 
     folderitems:
@@ -188,7 +188,7 @@ entries:
 #      url: /mydoc_git_collaboration
 #      output: web, pdf
 
-  - title: Publishing
+  - title: Publications
     output: web, pdf
 
     folderitems:
@@ -224,7 +224,7 @@ entries:
       url: /mydoc_publishing_github_pages.html
       output: web, pdf
 
-  - title: Special layouts
+  - title: Special thanks
     output: web, pdf
 
     folderitems:
@@ -244,7 +244,7 @@ entries:
       url: /mydoc_shuffle.html
       output: web, pdf
 
-  - title: Troubleshooting
+  - title: PC Repair tips
     output: web, pdf
 
     folderitems:
