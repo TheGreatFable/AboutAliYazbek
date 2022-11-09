@@ -7,408 +7,193 @@ permalink: index.html
 summary: This is Ali's personal webpage.
 ---
 
-{% include note.html content="If you're reading this page, you're probably interested. I have a blog on technical writing here called <a alt='technical writing blog' href='http://medium.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods, consider <a href='https://tryhackme.com'>subscribing</a>. I also have a site on <a href='http://github.com'>writing API documentation</a>." %}
+{% include note.html content="If you're reading this page, you're probably interested. I have a blog on technical writing here called <a alt='technical writing blog' href='http://medium.com'>Medium</a>. If you'd like to stay updated with the latest trends, best practices, and other methods, consider <a href='https://tryhackme.com'>TryHackMe</a>. I also have a site on <a href='http://github.com'>GitHub</a>." %}
+
+
 
 ## Resume/CV
 
 Follow these sections to see the resume.
 
+
 ### 1. Download the CV
 
-First, download or clone the theme from the [Github repo](https://google.drive.com/). Most likely you won't be pulling in updates once you start customizing the theme, so downloading the theme (instead of cloning it) probably makes the most sense. In Github, click the **Clone or download** button, and then click **Download ZIP**.
+Download the CV from the [Google drive](https://drive.google.com/).
+
 
 ### 2. Summary
 
-If you've never installed or run a Jekyll site locally on your computer, follow these instructions to install Jekyll:
+Ali Yazbek is a multicultural businessman and financier. He is also an independent researcher and IT consultant. He is a highly qualified specialist with impressive diplomatic, strategic, and administrative expertise.
+
+He graduated from Kingston Business School in London. Then, he pursued an MBA from Sagesse University and a MIAGE degree from the University of Bordeaux.
+
+He is well-versed in all aspects of enterprise systems, international commercial law, marketing, investments, and financial services areas. 
+
+His main specialities are: 
+-	Financial Risk Assessment
+-	Database System Administration
+-	Business Intelligence Analysis
+-	Research & Development
+-	Operations Management
+- Corporate Strategy Consulting
+-	Portfolio Optimization
+- Information Technology Management
+
+Mr. Yazbek is passionate about improving clients' financial well-being with offers, products, and services they adore.
 
 * [Install Jekyll on Mac][mydoc_install_jekyll_on_mac]
 * [Install Jekyll on Windows][mydoc_install_jekyll_on_windows]
 
+
 ### 3. Eduction
 
-In case you haven't installed Bundler, install it:
+In case you want a summary, here it is:
 
 ```
-gem install bundler
+MBA, MSc, PGDip, BSc, TechBacc
 ```
 
-You'll want [Bundler](http://bundler.io/) to make sure all the Ruby gems needed work well with your project. Bundler sorts out dependencies and installs missing gems or matches up gems with the right versions based on gem dependencies.
+**Master of Business Administratio - MBA in Management Information Systems** 	
+Sagesse University – Faculty of Economics and Business Administration 	
+Beirut, Lebanon, Feb 2022 – Jan 2024
+•	Coursework: Advanced Managerial Finance, Advanced Managerial Accounting, Advanced Organizational Behavior & Leadership, Strategic Marketing Management, Network Security Management
 
-### 4. Certifications 1: Build the Theme (*without* the github-pages gem) {#option1}
+**Master’s Degree in Business Informatics (MIAGE)** 	
+University of Bordeaux – College of Law, Political Science, Economics and Management 	
+Bordeaux, France, Feb 2022 – Jan 2024
+•	Specialisation: Information System and Business Intelligence 
+•	Coursework: Application Development & ERP, Software Rights & Computer Auditing, Research Methods, Data Analysis & Knowledge Discovery, Decision Support & Business Intelligence Systems, Software Architecture
 
-Use this option if you're not planning to publish your Jekyll site using [Github Pages](https://pages.github.com/).
+**Postgraduate Diploma in Finance** 	
+Kingston University – Kingston Business School 	
+London, United Kingdom, Sep 2020 – Sep 2021
+•	Overall Classification: with Merit 
+•	Dissertation: “Investigating the correlation of volatility movements in eight cryptocurrencies”
+•	Coursework: Financial Accounting, Corporate Finance, Financial Statement Analysis, Fixed Income Analysis, Portfolio Theory, Investment Banking, Financial Modeling, Research Methods
 
-Bundler's Gemfile specifies how project dependencies are managed. Although this project includes a Gemfile, this theme doesn't have any dependencies beyond core Jekyll. The Gemfile is used to list gems needed for publishing on Github Pages. **If you're not planning to have Github Pages build your Jekyll project, delete these two files from the theme's root directory:**
+**Bachelor of Science in Management Information Systems** 	
+Sagesse University – Faculty of Economics and Business Administration 	
+Beirut, Lebanon, Sep 2015 – Jan 2020
+•	Minor: Business Administration 
+•	Overall GPA: 3.05 /4.00 
+•	Coursework: Accounting, Financial Management, Financial Analysis, Quantitative Methods for Business, Microeconomics, Macroeconomics, Marketing, E-Business & Mobile Application, Project Management, Database Design & Administration, Web Development, Business Programming, Business Law, History of Lebanon
 
-* Gemfile
-* Gemfile.lock
+**Technical Baccalaureate in Information Technology** 	
+Al Kafaat Technical Institut – Department of Management and Information Technology 	
+Beirut, Lebanon, Sep 2012 – Jul 2015
+•	Total Grade: 12.32 /20 
+•	Completed a 300-hour English Language Program under the auspice of the State University of New York
+•	Coursework: Statistics & Mathematics, Sociology, Law, Computer Technology, Collection of Computer Parts, Computer Maintenance, Programming
 
-If you've never run Jekyll on your computer (you can check with `jekyll --version`), you may need to install the jekyll gem:
 
-```
-gem install jekyll
-```
+### 4. Certifications 1: Main Certifications (*with* the Top Certifications) {#option1}
 
-Now run jekyll serve (first change directories (`cd`) to where you downloaded the project):
+Use this option if you're planning see links to the full list using [Certifications Page](https://pages.github.com/).
 
-```
-jekyll serve
-```
+Bloomberg Market Concepts (BMC) | Oct 2020
 
-### 4. Qualifications 2: Build the Theme (*with* the github-pages gem) {#option2}
+### 4. Certifications 2: Additional Qualifications (*without* the Top Certifications) {#option2}
 
-If you *are* in fact publishing on Github Pages, leave the Gemfile and Gemfile.lock files in the theme.The Gemfile tells Jekyll to use the github-pages gem. **However, note that you cannot use the normal `jekyll serve` command with this gem due to dependency conflicts between the latest version of Jekyll and Github Pages** (which are noted [briefly here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)).
+Cisco Academy Cybersecurity Pathway: Cyberthreat Management, Network Defence, Endpoint Security, IoT | May 2022
+TryHackMe Pentesting Principles, Hash Hacker, OWASP, Windows and Linux PrivEsc | May 2022
+Accenture Digital Skills: Web Analytics | May 2022
+Microsoft Protect Enterprise Information with Microsoft 365, Model Data in Power BI | May 2022
+LinkedIn Learning Become an IT Support Technician, Data Analyst, Financial Analyst, Bookkeeper | Sep 2021
+HackerRank C# & Python (Basic) | May 2021
 
-You need Bundler to resolve these dependency conflicts. Use Bundler to install all the needed Ruby gems:
+## Virtual Experience Programs at *Forage*
 
-```
-bundle update
-```
+JPMorgan Chase & Co. Corporate Analyst Development Program (CADP) Virtual Experience Program at Forage | Sep 2022
+PwC Switzerland Corporate Tax Virtual Case Experience at Forage | Sep 2022
+Latham & Watkins Mergers & Acquisitions Virtual Experience Program at Forage | Sep 2022
+Electronic Arts (EA) Software Engineering Virtual Experience Program at Forage | Sep 2022
+Boston Consulting Group (BCG) Strategy Consulting Virtual Experience Program at Forage | Sep 2022
+Amazon Web Services (AWS) APAC Solutions Architect Virtual Experience Program at Forage | Jun 2022
+Visa Token Service Technology Virtual Experience Program at Forage | Jun 2022
+Mastercard Cybersecurity Virtual Experience Program at Forage | Jun 2022
+Goldman Sachs Excel Skills for Business Virtual Experience Program at Forage | Jun 2022
 
-Then *always* use this command to build Jekyll:
+## Language Certifications
 
-```
-bundle exec jekyll serve
-```
+Education First (EF) Standard English Test, Result: 72/100 – C2 | Sep 2022
+International English Language Testing System (IELTS) Academic for UKVI, Score: 6.0 – B2 | Jan 2020
 
-If you want to shorten this long command, you can put this code in a file such as jekyll.sh (on a Mac) and then simply type `. jekyll.sh` to build Jekyll.
 
-## Running the site in Docker
+## Technical Skills
 
-You can also use Docker to directly build and run the site on your local machine. Just clone the repo and run the following from your working dir:
-```
-docker-compose build --no-cache && docker-compose up
-```
-The site should now be running at [http://localhost:4000/](http://localhost:4000/).
+•	Extensive academic experience in research, quantitative analysis, financial reporting, and financial modelling.
+•	Excellent knowledge of different asset classes including equities (stocks), fixed income securities (bonds), derivatives, commodities, futures, funds, real estate, fiat currencies, cryptocurrencies, and cash equivalents.
+•	Strong understanding of general ledger, accounts payable, accounts receivable, and other financial areas.
+•	Good knowledge of financial statement preparation including income statements, balance sheets, cash flow statements, and statements of shareholders’ equity according to GAAP and IFRS.
+•	Intermediate programming skills with knowledge of C/C++/C#, SQL, VB.NET, Java/JavaScript, PHP, HTML, CSS.
+•	Outstanding knowledge of Operating Systems including, Windows OS XP/7/10/11, Server 2012/2016/2019, MacOS, iOS/iPadOS, Android, and Linux.
+•	Advanced IT/computer, troubleshooting, and maintenance skills.
+•	Excellent understanding of network technologies including, LAN/MAN/WAN, TCP/IP, DHCP, DNS, IP Addressing, VPN, switching, routing, wired and wireless access.
+•	Experience using MS Office 365, Visual Studio, SQL Server Management Studio (SSMS), Power BI, EViews.
+•	Proficient with Microsoft Excel (vlookup, pivot tables, price forecasting, asset/firm valuation (binomial lattice model, DCF, FCF, CAPM, Fama-French multi-factor model), capital structure evaluation (WACC), macros).
 
-This is perhaps the easiest way to see how your site would actually look.
 
-## Configure the sidebar
+## Languages
 
-There are several products in this theme. Each product uses a different sidebar. This is the essence of what makes this theme unique -- different sidebars for different product documentation. The idea is that when users are reading documentation for a specific product, the sidebar navigation should be specific to that product. (You can read more of my thoughts on why multiple sidebars are important in this [blog post](http://idratherbewriting.com/2016/03/23/release-of-documentation-theme-for-jekyll-50/).)
+**Fluent: **
+English, French, Arabic, Russian
 
-The top navigation usually remains the same, because it allows users to navigate across products. But the sidebar navigation adapts to the product.
+**Beginner: **
+Italian, German, Spanish, Japanese
 
-In each page's frontmatter, you must specify the sidebar you want that page to use. Here's an example of the page frontmatter showing the sidebar property:
 
-<pre>
----
-title: Alerts
-tags: [formatting]
-keywords: notes, tips, cautions, warnings, admonitions
-last_updated: July 3, 2016
-summary: "You can insert notes, tips, warnings, and important alerts in your content. These notes are stored as shortcodes made available through the linksrefs.hmtl include."
-<span class="red">sidebar: mydoc_sidebar</span>
-permalink: mydoc_alerts
----
-</pre>
+## Main Publications
 
-The `sidebar: mydoc_sidebar` refers to the \_data/sidebars/mydoc_sidebar.yml file.
+•	Investigating the correlation of volatility movements in eight cryptocurrencies (September 1, 2021). Available at SSRN: https://ssrn.com/abstract=4020551. SSRN Top 10 List as of 17 March 2022.
+•	Implementing a custom ERP in nine months and on budget with Cisco Systems (September 1, 2022). Available at SSRN: https://ssrn.com/abstract=4020551.
 
-Note that your sidebar can only have 2 levels (expand the **Tag archives** option to see an example of the second level). Given that each product has its own sidebar, this depth should be sufficient (it's really like 3 levels). Deeper nesting goes against usability recommendations.
 
-You can optionally turn off the sidebar on any page (e.g. landing pages). To turn off the sidebar for a page, you should set the page frontmatter tag as `hide_sidebar: true`.
+## Relative interests and other hobbies
 
-If you don't declare a sidebar, the `home_sidebar` file gets used as the default because this is the default specified in the config file:
+Hobbies: Hiking, swimming, basketball, travelling, video gaming, geohistory, art, professional photography, sketching
 
-```yaml
--
-  scope:
-    path: ""
-    type: "pages"
-  values:
-    layout: "page"
-    comments: true
-    search: true
-    sidebar: home_sidebar
-    topnav: topnav
-```
+Competitive Sport: Keen runner and have completed the 2017 Beirut Youth Marathon and the 2018 Beirut Half Marathon. Hiked “Qurnat as Sawda”, the highest mountain in the Levant (July 2018).
 
-If you want to set different sidebar defaults based on different folders for your pages, specify your defaults like this:
 
-```
--
-  scope:
-    path: "pages/mydoc"
-    type: "pages"
-  values:
-    layout: "page"
-    comments: true
-    search: true
-    sidebar: mydoc_sidebar
-    topnav: topnav
-```
+## Other Information
 
-This would load the `mydoc_sidebar` for each file in **pages/mydoc**. You could set different defaults for different path scopes.
 
-For more detail on the sidebar, see [Sidebar navigation][mydoc_sidebar_navigation].
+Citizenship: 
+Lebanon
 
-## Top navigation
-
-The top navigation works just like the sidebar. You can specify which topnav data file should load by adding a `topnav` property in your page, like this:
-
-```yaml
-topnav: topnav
-```
-
-Here the topnav refers to the `_data/topnav.yml` file.
-
-Because most topnav options will be the same, the `_config.yml` file specifies the topnav file as a default:
-
-```yaml
--
-  scope:
-    path: ""
-    type: "pages"
-  values:
-    layout: "page"
-    comments: true
-    search: true
-    sidebar: home_sidebar
-    topnav: topnav
-```
-
-## Sidebar syntax
-
-The sidebar data file uses a specific YAML syntax that you must follow. Follow the sample pattern shown in the theme, specically looking at `mydoc_sidebar.yml` as an example: Here's a code sample showing all levels:
-
-```yaml
-entries:
-- title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
-  folders:
-  - title: Overview
-    output: web, pdf
-    folderitems:
-
-    - title: Get started
-      url: /index.html
-      output: web, pdf
-      type: homepage
-
-    - title: Introduction
-      url: /mydoc_introduction.html
-      output: web, pdf
-
-  - title: Release Notes
-    output: web, pdf
-    folderitems:
-
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
-      output: web, pdf
-
-    - title: 5.0 Release notes
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
-
-  - title: Tag archives
-    output: web
-    folderitems:
-
-    - title: Tag archives overview
-      url: /mydoc_tag_archives_overview.html
-      output: web
-
-      subfolders:
-      - title: Tag archive pages
-        output: web
-        subfolderitems:
-
-        - title: Formatting pages
-          url: /tag_formatting.html
-          output: web
-
-        - title: Navigation pages
-          url: /tag_navigation.html
-          output: web
-
-        - title: Content types pages
-          url: /tag_content_types.html
-          output: web
-```
-
-Each `folder` or `subfolder` must contain a `title` and `output` property. Each `folderitem` or `subfolderitem` must contain a `title`, `url`, and `output` property.
-
-The two outputs available are `web` and `pdf`. (Even if you aren't publishing PDF, you still need to specify `output: web`).
-
-The YAML syntax depends on exact spacing, so make sure you follow the pattern shown in the sample sidebars. See my [YAML tutorial](mydoc_yaml_tutorial) for more details about how YAML works.
-
-{% include note.html content="If you have just one character of spacing off, Jekyll won't build due to the YAML syntax error. You'll see an error message in your console that says \"Error ... did not find expected key while parsing a block mapping at line 22 column 5. Error: Run jekyll build --trace for more information.\" If you encounter this, it usually refers to incorrect indentation or spacing in the YAML file. See the example mydoc_sidebar.yml file to see where your formatting went wrong." %}
-
-Each level must have at least one topic before the next level starts. You can't have a second level that contains multiple third levels without having at least one standalone topic in the second level. If you need a hierarchy that has a folder that contains other folders and no loose topics, use a blank `-` item like this:
-
-```yaml
-entries:
-- title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
-  folders:
-  - title: Overview
-    output: web, pdf
-    folderitems:
-
-    -
-
-  - title: Release Notes
-    output: web, pdf
-    folderitems:
-
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
-      output: web, pdf
-
-    - title: 5.0 Release notes
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
-
-  - title: Installation
-    output: web, pdf
-    folderitems:
-
-    - title: About Ruby, Gems, Bundler, etc.
-      url: /mydoc_about_ruby_gems_etc.html
-      output: web, pdf
-
-    - title: Install Jekyll on Mac
-      url: /mydoc_install_jekyll_on_mac.html
-      output: web, pdf
-
-    - title: Install Jekyll on Windows
-      url: /mydoc_install_jekyll_on_windows.html
-      output: web, pdf
-```
-
-To accommodate the title page and table of contents in PDF outputs, each product sidebar must list these pages before any other:
-
-```yaml
-- title:
-  output: pdf
-  type: frontmatter
-  folderitems:
-  - title:
-    url: /titlepage
-    output: pdf
-    type: frontmatter
-  - title:
-    url: /tocpage
-    output: pdf
-    type: frontmatter
-```
-
-Leave the output as `output: pdf` for these frontmatter pages so that they don't appear in the web output.
-
-For more detail on the sidebar, see [Sidebar navigation][mydoc_sidebar_navigation] and [YAML tutorial][mydoc_yaml_tutorial].
-
-## Comments
-
-The theme integrates [Commento.io](https://commento.io/) for comments below pages and posts. (This commenting service doesn't inject controversial tracking ads like Disqus does.) You will need to Commento.io account + plan ($5/month) to authorize Commento with your domain (no other configuration should be required). If you don't want comments, in the \_config.yml file, change the `comments: true` properties (under `defaults`) to `comments: false` in every instance. Then in the commento.html include file (inside \_includes), the `{% raw %}{% unless page.comments == false %} ... {% endunless %}{% endraw %}` logic will not insert the Commentio form.
-
-## Relative links and offline viewing
-
-This theme uses relative links throughout so that you can view the site offline and not worry about which server or directory you're hosting it. It's common with tech docs to push content to an internal server for review prior to pushing the content to an external server for publication. Because of the need for seamless transferrence from one host to another, the site has to use relative links.
-
-To view pages locally on your machine (without the Jekyll preview server), they need to have the `.html` extension. The `permalink` property in the page's frontmatter (without surrounding slashes) is what pushes the files into the root directory when the site builds.
-
-## Page frontmatter
-
-When you write pages, include these same frontmatter properties with each page:
-
-```yaml
----
-title: "Some title"
-tags: [sample1, sample2]
-keywords: keyword1, keyword2, keyword3
-last_updated: Month day, year
-summary: "optional summary here"
-sidebar: sidebarname
-permalink: filename.html
----
-```
-
-(You will customize the values for each of these properties, of course.)
-
-For titles, surrounding the title in quotes is optional, but if you have a colon in the title, you must surround the title with quotation marks. If you have a quotation mark inside the title, escape it first with a backlash `\`.
-
-Values for `keywords` get populated into the metadata of the page for SEO.
-
-Values for `tags` must be defined in your \_data/tags.yml list. You also need a corresponding tag file inside the tags folder pages/tags/ that follows the same pattern as the other tag files shown in the tags folder. (Jekyll won't auto-create these tag files.)
-
-If you don't want the mini-TOC to show on a page (such as for the homepage or landing pages), add `toc: false` in the frontmatter.
-
-The `permalink` value should be the same as your filename and include the ".html" file extension.
+Date of Birth:
+08 June 1997
 
 For more detail, see [Pages][mydoc_pages].
 
-## Where to store your documentation topics
+## Projects
 
-You can store your files for each product inside subfolders following the pattern shown in the theme. For example, product1, product2, etc, can be stored in their own subfolders inside the \_pages directory. Inside \_pages, you can store your topics inside sub-subfolders or sub-sub-folders to your heart's content. When Jekyll builds your site, it will pull the topics into the root directory and use the permalink for the URL.
-
-Note that product1, product2, and mydoc are all just sample content to demonstrate how to add multiple products into the theme. You can freely delete that content.
+Kingston University Finance Portfolio: Includes financial reports and the dissertation.
+Insurance Company Database Project: Developed and designed an SQL database that includes personal client information and policy data of an imaginary insurance company. Utilized SQL within SQL Server Management Studio and VB.NET within Visual Studio.
+Numerical Translator Application: Designed an algorithm that converts decimal numbers into the alphabetic format with choices of three languages (English, Arabic, and Russian). Utilized VB.NET language with GUI in Visual Studio.
+Power BI Demo: Visualized Excel workbooks, original built-in samples, Power BI reports, sample apps, and financial data.
 
 For more information, see [Pages][mydoc_pages] and [Posts][mydoc_posts].
 
-## Configure the top navigation
 
-The top navigation bar's menu items are set through the \_data/topnav.yml file. Use the top navigation bar to provide links for navigating from one product to another, or to navigate to external resources.
+## Social Media
 
-For external URLs, use `external_url` in the item property, as shown in the example topnav.yml file. For internal links, use `url` the same was you do in the sidebar data files.
+LinkedIn
 
-Note that the topnav has two sections: `topnav` and `topnav_dropdowns`. The topnav section contains single links, while the `topnav_dropdowns` section contains dropdown menus. The two sections are independent of each other.
-
-## Generating PDF
-
-If you want to generate PDF, you'll need a license for [Prince XML](http://www.princexml.com/). You will also need to [install Prince](http://www.princexml.com/doc/installing/).  You can generate PDFs by product (but not for every product on the site combined together into one massive PDF). Prince will work even without a license, but it will imprint a small Prince image on the first page, and you're supposed to buy the license to use it.
-
-If you're on Windows, install [Git Bash client](https://git-for-windows.github.io/) rather than using the default Windows command prompt.
-
-Open up the css/printstyles.css file and customize the email address (`youremail@domain.com`) that is listed there. This email address appears in the bottom left footer of the PDF output. You'll also need to create a PDF configuration file following the examples shown in the pdfconfigs folder, and also customize some build scripts following the same pattern shown in the root: pdf-product1.sh
-
-See the section on [Generating PDFs][mydoc_generating_pdfs] for more details about setting the theme up for this output.
-
-## Blogs / News
-
-For blog posts, create your markdown files in the \_posts folder following the sample formats. Post file names always begin with the date (YYYY-MM-DD-title).
-
-The news/news.html file displays the posts, and the news_archive.html file shows a yearly history of posts. In documentation, you might use the news to highlight product features outside of your documentation, or to provide release notes and other updates.
+GitHub
 
 See [Posts][mydoc_posts] for more information.
 
-## Markdown
+## Contact
 
-This theme uses [kramdown markdown](http://kramdown.gettalong.org/). kramdown is similar to Github-flavored Markdown, except that when you have text that intercepts list items, the spacing of the intercepting text must align with the spacing of the first character after the space of a numbered list item. Basically, with your list item numbering, use two spaces after the dot in the number, like this:
+Email: yazbekali.fable@gmail.com
 
-```
-1.  First item
-2.  Second item
-3.  Third item
-```
-
-When you want to insert paragraphs, notes, code snippets, or other matter in between the list items, use four spaces to indent. The four spaces will line up with the first letter of the list item (the <b>F</b>irst or <b>S</b>econd or <b>T</b>hird).
-
-```
-1.  First item
-
-    ```
-    alert("hello");
-    ```
-
-2.  Second item
-
-    Some pig!
-
-3.  Third item
-```
-
-See the topics under "Formatting" in the sidebar for more information.
-
-## Automated links
+## Useful links
 
 If you want to use an automated system for managing links, see [Automated Links][mydoc_hyperlinks.html#automatedlinks]. This approach automatically creates a list of Markdown references to simplify linking.
 
-## Other instructions
+## Other
 
-The content here is just a getting started guide only. For other details in working with the theme, see the various sections in the sidebar.
+The content here is just getting started. For other details in working with me, see the various sections in the sidebar.
 
 {% include links.html %}
