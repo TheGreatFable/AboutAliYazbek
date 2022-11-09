@@ -9,13 +9,13 @@ summary: This is Ali's personal webpage.
 
 {% include note.html content="If you're reading this page, you're probably interested. I have a blog on technical writing here called <a alt='technical writing blog' href='http://medium.com'>Medium</a>. If you'd like to stay updated with the latest trends, best practices, and other methods, consider <a href='https://tryhackme.com'>TryHackMe</a>. I also have a site on <a href='http://github.com'>GitHub</a>." %}
 
-## Resume/CV
+## Ali Yazbek's Curriculum Vitae
 
 Follow these sections to see the resume.
 
 ## Download the CV
 
-Download the CV from the [Google drive](https://drive.google.com/).
+Download the CV from the [Google Drive](https://drive.google.com/).
 
 
 ## Summary
@@ -55,12 +55,6 @@ Beirut, Lebanon, Feb 2022 – Jan 2024
 
 •	Coursework: Advanced Managerial Finance, Advanced Managerial Accounting, Advanced Organizational Behavior & Leadership, Strategic Marketing Management, Network Security Management
 
-
-
-
-
-
-
 **Master’s Degree in Business Informatics (MIAGE)**
 
 University of Bordeaux – College of Law, Political Science, Economics and Management
@@ -70,7 +64,6 @@ Bordeaux, France, Feb 2022 – Jan 2024
 •	Specialisation: Information System and Business Intelligence 
 
 •	Coursework: Application Development & ERP, Software Rights & Computer Auditing, Research Methods, Data Analysis & Knowledge Discovery, Decision Support & Business Intelligence Systems, Software Architecture
-
 
 **Postgraduate Diploma in Finance**
 
@@ -84,7 +77,6 @@ London, United Kingdom, Sep 2020 – Sep 2021
 
 •	Coursework: Financial Accounting, Corporate Finance, Financial Statement Analysis, Fixed Income Analysis, Portfolio Theory, Investment Banking, Financial Modeling, Research Methods
 
-
 **Bachelor of Science in Management Information Systems**
 
 Sagesse University – Faculty of Economics and Business Administration
@@ -96,7 +88,6 @@ Beirut, Lebanon, Sep 2015 – Jan 2020
 •	Overall GPA: 3.05 /4.00 
 
 •	Coursework: Accounting, Financial Management, Financial Analysis, Quantitative Methods for Business, Microeconomics, Macroeconomics, Marketing, E-Business & Mobile Application, Project Management, Database Design & Administration, Web Development, Business Programming, Business Law, History of Lebanon
-
 
 **Technical Baccalaureate in Information Technology**
 
@@ -177,7 +168,7 @@ Numerical Translator Application: Designed an algorithm that converts decimal nu
 
 Power BI Demo: Visualized Excel workbooks, original built-in samples, Power BI reports, sample apps, and financial data.
 
-For more information, see [Pages][mydoc_pages] and [Posts][mydoc_posts].
+For more information, see [Projects][mydoc_pages] and [Other Projects][mydoc_posts].
 
 ## Languages
 
@@ -231,12 +222,12 @@ Lebanon
 Date of Birth:
 08 June 1997
 
-For more detail, see [Pages][mydoc_pages].
+For more detail, see [Other Information][mydoc_pages].
 
 
 ## Useful links
 
-If you want to lookup for more links, see [Automated Links][mydoc_hyperlinks.html#automatedlinks].
+If you want to lookup for more links, see [More Links][mydoc_hyperlinks.html#automatedlinks].
 
 
 ## More
