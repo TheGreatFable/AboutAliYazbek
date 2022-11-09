@@ -9,19 +9,16 @@ summary: This is Ali's personal webpage.
 
 {% include note.html content="If you're reading this page, you're probably interested. I have a blog on technical writing here called <a alt='technical writing blog' href='http://medium.com'>Medium</a>. If you'd like to stay updated with the latest trends, best practices, and other methods, consider <a href='https://tryhackme.com'>TryHackMe</a>. I also have a site on <a href='http://github.com'>GitHub</a>." %}
 
-
-
 ## Resume/CV
 
 Follow these sections to see the resume.
 
-
-### 1. Download the CV
+## Download the CV
 
 Download the CV from the [Google drive](https://drive.google.com/).
 
 
-### 2. Summary
+## Summary
 
 Ali Yazbek is a multicultural businessman and financier. He is also an independent researcher and IT consultant. He is a highly qualified specialist with impressive diplomatic, strategic, and administrative expertise.
 
@@ -42,7 +39,7 @@ His main specialities are:
 Mr. Yazbek is passionate about improving clients' financial well-being with offers, products, and services they adore.
 
 
-### 3. Eduction
+## Eduction
 
 In case you need abbreviations, here they are:
 
@@ -57,6 +54,11 @@ Sagesse University – Faculty of Economics and Business Administration
 Beirut, Lebanon, Feb 2022 – Jan 2024
 
 •	Coursework: Advanced Managerial Finance, Advanced Managerial Accounting, Advanced Organizational Behavior & Leadership, Strategic Marketing Management, Network Security Management
+
+
+
+
+
 
 
 **Master’s Degree in Business Informatics (MIAGE)**
@@ -109,13 +111,13 @@ Beirut, Lebanon, Sep 2012 – Jul 2015
 •	Coursework: Statistics & Mathematics, Sociology, Law, Computer Technology, Collection of Computer Parts, Computer Maintenance, Programming
 
 
-### 4. Certifications 1: Main Certifications (*with* the Top Certifications) {#option1}
+## Certifications: Main Certifications (*with* the Top Certifications) {#option1}
 
 Use this option if you're planning see links to the full list using [Certifications Page](https://pages.github.com/).
 
 Bloomberg Market Concepts (BMC) | Oct 2020
 
-### 4. Certifications 2: Additional Qualifications (*without* the Top Certifications) {#option2}
+### 1. Additional Qualifications {#option2}
 
 Cisco Academy Cybersecurity Pathway: Cyberthreat Management, Network Defence, Endpoint Security, IoT | May 2022
 TryHackMe Pentesting Principles, Hash Hacker, OWASP, Windows and Linux PrivEsc | May 2022
@@ -124,7 +126,7 @@ Microsoft Protect Enterprise Information with Microsoft 365, Model Data in Power
 LinkedIn Learning Become an IT Support Technician, Data Analyst, Financial Analyst, Bookkeeper | Sep 2021
 HackerRank C# & Python (Basic) | May 2021
 
-## Virtual Experience Programs at *Forage*
+### 2. Virtual Experience Programs at *Forage*
 
 JPMorgan Chase & Co. Corporate Analyst Development Program (CADP) Virtual Experience Program at Forage | Sep 2022
 PwC Switzerland Corporate Tax Virtual Case Experience at Forage | Sep 2022
@@ -136,13 +138,13 @@ Visa Token Service Technology Virtual Experience Program at Forage | Jun 2022
 Mastercard Cybersecurity Virtual Experience Program at Forage | Jun 2022
 Goldman Sachs Excel Skills for Business Virtual Experience Program at Forage | Jun 2022
 
-## Language Certifications
+### 3. Language Certifications
 
 Education First (EF) Standard English Test, Result: 72/100 – C2 | Sep 2022
 International English Language Testing System (IELTS) Academic for UKVI, Score: 6.0 – B2 | Jan 2020
 
 
-### 5. Technical Skills
+## Technical Skills
 
 •	Extensive academic experience in research, quantitative analysis, financial reporting, and financial modelling.
 
@@ -165,17 +167,19 @@ International English Language Testing System (IELTS) Academic for UKVI, Score: 
 •	Proficient with Microsoft Excel (vlookup, pivot tables, price forecasting, asset/firm valuation (binomial lattice model, DCF, FCF, CAPM, Fama-French multi-factor model), capital structure evaluation (WACC), macros).
 
 
-### 6. Projects
+## Projects
 
 Kingston University Finance Portfolio: Includes financial reports and the dissertation.
+
 Insurance Company Database Project: Developed and designed an SQL database that includes personal client information and policy data of an imaginary insurance company. Utilized SQL within SQL Server Management Studio and VB.NET within Visual Studio.
+
 Numerical Translator Application: Designed an algorithm that converts decimal numbers into the alphabetic format with choices of three languages (English, Arabic, and Russian). Utilized VB.NET language with GUI in Visual Studio.
+
 Power BI Demo: Visualized Excel workbooks, original built-in samples, Power BI reports, sample apps, and financial data.
 
 For more information, see [Pages][mydoc_pages] and [Posts][mydoc_posts].
 
-
-### 7. Languages
+## Languages
 
 **Fluent:**
 
@@ -186,14 +190,14 @@ English, French, Arabic, Russian
 Italian, German, Spanish, Japanese
 
 
-### 8. Main Publications
+## Main Publications
 
 •	Investigating the correlation of volatility movements in eight cryptocurrencies (September 1, 2021). Available at SSRN: https://ssrn.com/abstract=4020551. SSRN Top 10 List as of 17 March 2022.
 
 •	Implementing a custom ERP in nine months and on budget with Cisco Systems (September 1, 2022). Available at SSRN: https://ssrn.com/abstract=4020551.
 
 
-### 9. Relative interests and other hobbies
+## Interests & Hobbies
 
 **Hobbies:** 
 
@@ -207,7 +211,7 @@ Hiked “Qurnat as Sawda”, the highest mountain in the Levant (July 2018).
 
 
 
-### 10. Contact
+## Contact
 
 Email: [yazbekali.fable@gmail.com](mailto:yazbekali.fable@gmail.com)
 
@@ -218,10 +222,8 @@ Email: [yazbekali.fable@gmail.com](mailto:yazbekali.fable@gmail.com)
 
 [GitHub](https://github.com/)
 
-See [Posts][mydoc_posts] for more information.
 
-
-### 11. Other Information
+## Other Information
 
 Citizenship: 
 Lebanon
@@ -234,11 +236,11 @@ For more detail, see [Pages][mydoc_pages].
 
 ## Useful links
 
-If you want to use an automated system for managing links, see [Automated Links][mydoc_hyperlinks.html#automatedlinks]. This approach automatically creates a list of Markdown references to simplify linking.
+If you want to lookup for more links, see [Automated Links][mydoc_hyperlinks.html#automatedlinks].
 
 
-## Other
+## More
 
-The content here is just getting started. For other details in working with me, see the various sections in the sidebar.
+The content here is just getting started. For other details about me, see the various sections in the sidebar.
 
 {% include links.html %}
