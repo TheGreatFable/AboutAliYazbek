@@ -11,14 +11,14 @@ Follow these sections to see the resume.
 
 ## Download the CV
 
-Download the CV as Word File from the [Google Drive](https://drive.google.com/).
+If you need the CV as a Word or PDF File, contact Mr Ali via Email: [yazbekali97@gmail.com](mailto:yazbekali97@gmail.com).
 
 
 ## Summary
 
 Ali Yazbek is a multicultural entrepreneur, financier, and IT specialist. He is a highly qualified individual with impressive diplomatic, strategic, and administrative expertise.
 
-He is well-versed in all aspects of enterprise systems, international commercial laws, marketing, investments, and financial services areas. 
+He is well-versed in all aspects of enterprise systems, international corporate law, marketing, investments, and financial services areas. 
 
 His main specialities are: 
 -	Financial Risk Assessment 
@@ -36,43 +36,36 @@ Mr. Ali is passionate about improving clients' financial well-being with offers,
 In case you need summary, here it is:
 
 ```
-
 Highest Level Achieved: MBA | FHEQ Level 7
-
 3 Graduate/Postgraduate Degrees: MBA, MSc, PGDip
-
 1 Undergraduate Degree: BS
-
 1 Technical Degree: TechBacc
-
 ```
 
 
 **Master of Business Administratio (MBA) in Management Information Systems**
 
-Sagesse University – Faculty of Economics and Business Administration 
+Sagesse University – Faculty of Economics and Business Administration  [Website](https://uls.edu.lb/fr/faculty/business-administration-finance)
 
 *Beirut, Lebanon, Feb 2022 – Jan 2024*
 
-•	Coursework: Advanced Managerial Finance, Advanced Managerial Accounting, Advanced Organizational Behavior & Leadership, Strategic Marketing Management, Network Security Management
-
+•	Coursework: Management of Electronic Commerce, Network Security Management, Strategic Marketing Management, Advanced Organizational Behavior & Leadership, Advanced Managerial Accounting, Advanced Managerial Finance, Business Research Methods
 
 
 **Master of Science (MSc) in Business Informatics (MIAGE)**
 
-University of Bordeaux – College of Law, Political Science, Economics and Management
+University of Bordeaux – College of Law, Political Science, Economics and Management  [Website](https://miage.emi.u-bordeaux.fr/)
 
 *Bordeaux, France, Feb 2022 – Jan 2024*
 
 •	Specialisation: Information System and Business Intelligence 
 
-•	Coursework: Application Development & ERP, Software Rights & Computer Auditing, Research Methods, Data Analysis & Knowledge Discovery, Decision Support & Business Intelligence Systems, Software Architecture
-
+•	Coursework: Decision Support & Business Intelligence Systems, Data Analysis and Knowledge Discovery, Application Development and ERP, Software Rights & Computer Auditing, Software Architecture and Mobile Programming
 
 
 **Postgraduate Diploma (PGDip) in Finance**
 
-Kingston University – Kingston Business School 	
+Kingston University – Kingston Business School 	[Website](https://www.kingston.ac.uk/postgraduate/courses/finance-msc/)
 
 *London, United Kingdom, Sep 2020 – Sep 2021*
 
@@ -80,13 +73,12 @@ Kingston University – Kingston Business School
 
 •	Dissertation: “Investigating the correlation of volatility movements in eight cryptocurrencies”
 
-•	Coursework: Financial Accounting, Corporate Finance, Financial Statement Analysis, Fixed Income Analysis, Portfolio Theory, Investment Banking, Financial Modeling, Research Methods
-
+•	Coursework: Japanese Level 1, Financial Accounting and Financial Management, Corporate Finance and Financial Statement Analysis, Portfolio Theory and Investment Banking, Financial Modelling and Research Methods, Market-Based Accounting, Fixed Income Analysis
 
 
 **Bachelor of Science (BS) in Management Information Systems**
 
-Sagesse University – Faculty of Economics and Business Administration
+Sagesse University – Faculty of Economics and Business Administration  [Website](https://uls.edu.lb/fr/faculty/business-administration-finance)
 
 *Beirut, Lebanon, Sep 2015 – Jan 2020*
 
@@ -94,8 +86,7 @@ Sagesse University – Faculty of Economics and Business Administration
 
 •	Overall GPA: 3.05 /4.00 
 
-•	Coursework: Accounting, Financial Management, Financial Analysis, Quantitative Methods for Business, Microeconomics, Macroeconomics, Marketing, E-Business & Mobile Application, Project Management, Database Design & Administration, Web Development, Business Programming, Business Law, History of Lebanon
-
+•	Coursework: Basic French, Intensive French, French I, French II, English I, English II, Writing Skills, Sophomore Rhetoric for Business, Business Law, Algebra and Statistics, Analysis, Business Math, Quantitative Methods for Business, General Economics, Principles of Microeconomics, Principles of Macroeconomics, Principles of Management, Principles of Marketing, Principles of Accounting I, Principles of Accounting II, Financial Analysis, Financial Management, Computer Skills, Advanced Computer Skills, Discrete Structures for MIS, Business Information Systems, Systems Analysis & Design, MIS Project Management, Networking and Telecommunications, Database Design & Administration, Essentials of Java Programming for Business, Business Programming I, Business Programming II, Business Programming Project, Web Application & Development, E-Business and Mobile Technology, Italian Language I, Introduction to Nutrition, Judaism, Christianity & Islam, Modern History of Lebanon
 
 
 **Technical Baccalaureate (TechBacc) in Information Technology**
@@ -106,9 +97,9 @@ Al Kafaat Technical Institut – Department of Management and Information Techno
 
 •	Total Grade: 12.32 /20 
 
-•	Completed a 300-hour English Language Program under the auspice of the State University of New York  [Link](https://drive.google.com/)
+•	Completed a 300-hour English Language Program under the auspice of the State University of New York
 
-•	Coursework: Statistics & Mathematics, Sociology, Law, Computer Technology, Collection of Computer Parts, Computer Maintenance, Programming
+•	Coursework: English, Arabic, French, Law, Social Sciences, Quantitative management, Financial mathematics, Math, Computer graphics, Applied computing, Applied computing and OPL, Introduction to the algorithm, Introduction to the algorithm and programming 1, Programming 2, Introduction and practice to networks, Practice the web, Practice in operating systems, Networks and internet, Maintenance methodology, Assembly of computers, Computer Technology
 
 
 ## Certifications: Main Certifications {#option1}
@@ -117,29 +108,29 @@ Bloomberg Market Concepts (BMC) | Oct 2020 | [Link](https://portal.bloombergfore
 
 ### 1. Additional Certifications & Qualifications {#option2}
 
-Cisco Academy Cybersecurity Pathway: Cyberthreat Management, Network Defence, Endpoint Security, IoT | May 2022 | [Link]
-TryHackMe Pentesting Principles, Hash Hacker, OWASP, Windows and Linux PrivEsc | May 2022 | [Link]
-Accenture Digital Skills: Web Analytics | May 2022 | [Link]
-Microsoft Protect Enterprise Information with Microsoft 365, Model Data in Power BI | May 2022 | [Link]
-LinkedIn Learning Become an IT Support Technician, Data Analyst, Financial Analyst, Bookkeeper | Sep 2021 | [Link]
-HackerRank C# & Python (Basic) | May 2021 | [Link]
+Cisco Academy Cybersecurity Pathway: Cyberthreat Management, Network Defence, Endpoint Security, IoT | May 2022 | [Link](https://www.credly.com/users/mraliyazbek)
+TryHackMe Pentesting Principles, Hash Hacker, OWASP, Windows and Linux PrivEsc | May 2022 | [Link](https://tryhackme.com/p/TheGreatFable)
+Accenture Digital Skills: Web Analytics | May 2022 | [Link](https://www.futurelearn.com/certificates/jespaa2)
+Microsoft Protect Enterprise Information with Microsoft 365, Model Data in Power BI | May 2022 | [Link](https://learn.microsoft.com/en-us/users/aliyazbek/achievements)
+LinkedIn Learning Become an IT Support Technician, Data Analyst, Financial Analyst, Bookkeeper | Sep 2021 | [Link](https://drive.google.com/drive/folders/1xw8PqLu4ZZMQaRKMJ6jT7e6Oa954d0d1?usp=share_link)
+HackerRank C# & Python (Basic) | May 2021 | [Link](https://www.hackerrank.com/certificates/iframe/ca0b7858db0f) [Link](https://www.hackerrank.com/certificates/iframe/a2af5f56c154)
 
-### 2. Virtual Experience Programs at *Forage*
+### 2. Virtual Experience Programs at *Forage* [Link](https://www.theforage.com/profile/ThSTMa8PDLbYGjBXq?ref=ThSTMa8PDLbYGjBXq)
 
-JPMorgan Chase & Co. Corporate Analyst Development Program (CADP) Virtual Experience Program at Forage | Sep 2022 | [Link]
-PwC Switzerland Corporate Tax Virtual Case Experience at Forage | Sep 2022 | [Link]
-Latham & Watkins Mergers & Acquisitions Virtual Experience Program at Forage | Sep 2022 | [Link]
-Electronic Arts (EA) Software Engineering Virtual Experience Program at Forage | Sep 2022 | [Link]
-Boston Consulting Group (BCG) Strategy Consulting Virtual Experience Program at Forage | Sep 2022 | [Link]
-Amazon Web Services (AWS) APAC Solutions Architect Virtual Experience Program at Forage | Jun 2022 | [Link]
-Visa Token Service Technology Virtual Experience Program at Forage | Jun 2022 | [Link]
-Mastercard Cybersecurity Virtual Experience Program at Forage | Jun 2022 | [Link]
-Goldman Sachs Excel Skills for Business Virtual Experience Program at Forage | Jun 2022 | [Link]
+JPMorgan Chase & Co. Corporate Analyst Development Program (CADP) Virtual Experience Program at Forage | Sep 2022
+PwC Switzerland Corporate Tax Virtual Case Experience at Forage | Sep 2022 
+Latham & Watkins Mergers & Acquisitions Virtual Experience Program at Forage | Sep 2022 
+Electronic Arts (EA) Software Engineering Virtual Experience Program at Forage | Sep 2022 
+Boston Consulting Group (BCG) Strategy Consulting Virtual Experience Program at Forage | Sep 2022 
+Amazon Web Services (AWS) APAC Solutions Architect Virtual Experience Program at Forage | Jun 2022 
+Visa Token Service Technology Virtual Experience Program at Forage | Jun 2022 
+Mastercard Cybersecurity Virtual Experience Program at Forage | Jun 2022 
+Goldman Sachs Excel Skills for Business Virtual Experience Program at Forage | Jun 2022 
 
 ### 3. Language Certifications
 
-Education First (EF) Standard English Test, Result: 72/100 – C2 | Sep 2022 | [Link]
-International English Language Testing System (IELTS) Academic for UKVI, Score: 6.0 – B2 | Jan 2020 | [Link]
+Education First (EF) Standard English Test, Result: 72/100 – C2 | Sep 2022 | [Link](https://www.efset.org/cert/65Zuvs)
+International English Language Testing System (IELTS) Academic for UKVI, Score: 6.0 – B2 | Jan 2020 
 
 
 ## Skills
@@ -176,9 +167,13 @@ Numerical Translator Application: Designed an algorithm that converts decimal nu
 
 ## Languages
 
-**Fluent:** English, French, Arabic, Russian
+**Fluent:** 
 
-**Beginner:** Italian, German, Spanish, Japanese
+English, French, Arabic, Russian
+
+**Beginner:** 
+
+Italian, German, Spanish, Japanese
 
 
 ## Publications
@@ -225,8 +220,9 @@ Citizenships: Lebanese, Russian
 
 Date of Birth: 08 June 1997
 
-Current Address: Beirut, Lebanon [Google Maps](https://maps.google.com/)
+Current Address: Beirut, Lebanon [Google Maps](https://www.google.com/maps/@33.8721713,35.5220109,13z)
 
+NHS COVID Pass: Vaccinated
 
 ## More
 
