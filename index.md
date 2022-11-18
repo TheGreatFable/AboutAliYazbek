@@ -118,6 +118,7 @@ HackerRank | C# & Python (Basic) | May 2021 | [Link](https://www.hackerrank.com/
 ### 2. Virtual Experience Programs at *Forage* 
 
 Forage Profile [Link](https://www.theforage.com/profile/ThSTMa8PDLbYGjBXq?ref=ThSTMa8PDLbYGjBXq)
+
 JPMorgan Chase & Co. Corporate Analyst Development Program (CADP) Virtual Experience Program | Sep 2022
 PwC Switzerland Corporate Tax Virtual Case Experience | Sep 2022 
 Latham & Watkins Mergers & Acquisitions Virtual Experience Program | Sep 2022 
