@@ -1,13 +1,9 @@
 ---
 title: "Welcome"
-keywords: sample homepage
-tags: [getting_started]
-sidebar: mydoc_sidebar
 permalink: index.html
 summary: This is Ali's personal webpage.
 ---
 
-{% include note.html content="If you're reading this page, you're probably interested. I have a blog on technical writing here called <a alt='technical writing blog' href='http://medium.com'>Medium</a>. If you'd like to stay updated with the latest trends, best practices, and other methods, consider <a href='https://tryhackme.com'>TryHackMe</a>. I also have a site on <a href='http://github.com'>GitHub</a>." %}
 
 ## Ali Yazbek's Curriculum Vitae
 
@@ -20,23 +16,19 @@ Download the CV from the [Google Drive](https://drive.google.com/).
 
 ## Summary
 
-Ali Yazbek is a multicultural businessman and financier. He is also an independent researcher and IT consultant. He is a highly qualified specialist with impressive diplomatic, strategic, and administrative expertise.
+Ali Yazbek is a multicultural entrepreneur, financier, and IT specialist. He is a highly qualified individual with impressive diplomatic, strategic, and administrative expertise.
 
-He graduated from Kingston Business School in London. Then, he pursued an MBA from Sagesse University and a MIAGE degree from the University of Bordeaux.
-
-He is well-versed in all aspects of enterprise systems, international commercial law, marketing, investments, and financial services areas. 
+He is well-versed in all aspects of enterprise systems, international commercial laws, marketing, investments, and financial services areas. 
 
 His main specialities are: 
--	Financial Risk Assessment
+-	Financial Risk Assessment 
 -	Database System Administration
 -	Business Intelligence Analysis
--	Research & Development
--	Operations Management
-- Corporate Strategy Consulting
+-	Corporate Strategy Consulting
 -	Portfolio Optimization
-- Information Technology Management
+-	Information Technology Management
 
-Mr. Yazbek is passionate about improving clients' financial well-being with offers, products, and services they adore.
+Mr. Ali is passionate about improving clients' financial well-being with offers, products, and services they adore.
 
 
 ## Eduction
@@ -54,6 +46,7 @@ Sagesse University – Faculty of Economics and Business Administration
 Beirut, Lebanon, Feb 2022 – Jan 2024
 
 •	Coursework: Advanced Managerial Finance, Advanced Managerial Accounting, Advanced Organizational Behavior & Leadership, Strategic Marketing Management, Network Security Management
+|
 
 **Master’s Degree in Business Informatics (MIAGE)**
 
@@ -64,6 +57,7 @@ Bordeaux, France, Feb 2022 – Jan 2024
 •	Specialisation: Information System and Business Intelligence 
 
 •	Coursework: Application Development & ERP, Software Rights & Computer Auditing, Research Methods, Data Analysis & Knowledge Discovery, Decision Support & Business Intelligence Systems, Software Architecture
+|
 
 **Postgraduate Diploma in Finance**
 
@@ -76,6 +70,7 @@ London, United Kingdom, Sep 2020 – Sep 2021
 •	Dissertation: “Investigating the correlation of volatility movements in eight cryptocurrencies”
 
 •	Coursework: Financial Accounting, Corporate Finance, Financial Statement Analysis, Fixed Income Analysis, Portfolio Theory, Investment Banking, Financial Modeling, Research Methods
+|
 
 **Bachelor of Science in Management Information Systems**
 
@@ -88,6 +83,7 @@ Beirut, Lebanon, Sep 2015 – Jan 2020
 •	Overall GPA: 3.05 /4.00 
 
 •	Coursework: Accounting, Financial Management, Financial Analysis, Quantitative Methods for Business, Microeconomics, Macroeconomics, Marketing, E-Business & Mobile Application, Project Management, Database Design & Administration, Web Development, Business Programming, Business Law, History of Lebanon
+|
 
 **Technical Baccalaureate in Information Technology**
 
@@ -102,11 +98,9 @@ Beirut, Lebanon, Sep 2012 – Jul 2015
 •	Coursework: Statistics & Mathematics, Sociology, Law, Computer Technology, Collection of Computer Parts, Computer Maintenance, Programming
 
 
-## Certifications: Main Certifications (*with* the Top Certifications) {#option1}
+## Certifications: Main Certifications {#option1}
 
-Use this option if you're planning see links to the full list using [Certifications Page](https://pages.github.com/).
-
-Bloomberg Market Concepts (BMC) | Oct 2020
+Bloomberg Market Concepts (BMC) | Oct 2020 | [Link](https://portal.bloombergforeducation.com/certificates/HkhNi3ex8dQ1tr8CXtBKocjd)
 
 ### 1. Additional Qualifications {#option2}
 
@@ -160,7 +154,7 @@ International English Language Testing System (IELTS) Academic for UKVI, Score: 
 
 ## Projects
 
-Kingston University Finance Portfolio: Includes financial reports and the dissertation.
+Kingston University Finance Portfolio: Includes financial reports and the dissertation. [Google Drive](https://drive.google.com/)
 
 Insurance Company Database Project: Developed and designed an SQL database that includes personal client information and policy data of an imaginary insurance company. Utilized SQL within SQL Server Management Studio and VB.NET within Visual Studio.
 
@@ -168,7 +162,6 @@ Numerical Translator Application: Designed an algorithm that converts decimal nu
 
 Power BI Demo: Visualized Excel workbooks, original built-in samples, Power BI reports, sample apps, and financial data.
 
-For more information, see [Projects][mydoc_pages] and [Other Projects][mydoc_posts].
 
 ## Languages
 
@@ -183,9 +176,9 @@ Italian, German, Spanish, Japanese
 
 ## Main Publications
 
-•	Investigating the correlation of volatility movements in eight cryptocurrencies (September 1, 2021). Available at SSRN: https://ssrn.com/abstract=4020551. SSRN Top 10 List as of 17 March 2022.
+•	Investigating the correlation of volatility movements in eight cryptocurrencies (September 1, 2021). Available at [SSRN](https://ssrn.com/abstract=4020551). SSRN Top 10 List as of 17 March 2022.
 
-•	Implementing a custom ERP in nine months and on budget with Cisco Systems (September 1, 2022). Available at SSRN: https://ssrn.com/abstract=4020551.
+•	Implementing a custom ERP in nine months and on budget with Cisco Systems (September 1, 2022). Available at [SSRN](https://ssrn.com/abstract=4020551).
 
 
 ## Interests & Hobbies
@@ -209,9 +202,9 @@ Email: [yazbekali.fable@gmail.com](mailto:yazbekali.fable@gmail.com)
 
 ## Social Media
 
-[LinkedIn](https://linkedin.com/)
+[LinkedIn](https://www.linkedin.com/in/ali-yazbek/)
 
-[GitHub](https://github.com/)
+[GitHub](https://github.com/TheGreatFable)
 
 
 ## Other Information
@@ -222,16 +215,7 @@ Lebanon
 Date of Birth:
 08 June 1997
 
-For more detail, see [Other Information][mydoc_pages].
-
-
-## Useful links
-
-If you want to lookup for more links, see [More Links][mydoc_hyperlinks.html#automatedlinks].
-
 
 ## More
 
-The content here is just getting started. For other details about me, see the various sections in the sidebar.
-
-{% include links.html %}
+The content here is just a resume. For other details about me, see the Concact and Social Media sections.
