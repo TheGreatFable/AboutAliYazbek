@@ -46,7 +46,7 @@ Sagesse University – Faculty of Economics and Business Administration
 Beirut, Lebanon, Feb 2022 – Jan 2024
 
 •	Coursework: Advanced Managerial Finance, Advanced Managerial Accounting, Advanced Organizational Behavior & Leadership, Strategic Marketing Management, Network Security Management
-|
+
 
 **Master’s Degree in Business Informatics (MIAGE)**
 
@@ -57,7 +57,7 @@ Bordeaux, France, Feb 2022 – Jan 2024
 •	Specialisation: Information System and Business Intelligence 
 
 •	Coursework: Application Development & ERP, Software Rights & Computer Auditing, Research Methods, Data Analysis & Knowledge Discovery, Decision Support & Business Intelligence Systems, Software Architecture
-|
+
 
 **Postgraduate Diploma in Finance**
 
@@ -70,7 +70,7 @@ London, United Kingdom, Sep 2020 – Sep 2021
 •	Dissertation: “Investigating the correlation of volatility movements in eight cryptocurrencies”
 
 •	Coursework: Financial Accounting, Corporate Finance, Financial Statement Analysis, Fixed Income Analysis, Portfolio Theory, Investment Banking, Financial Modeling, Research Methods
-|
+
 
 **Bachelor of Science in Management Information Systems**
 
@@ -83,7 +83,7 @@ Beirut, Lebanon, Sep 2015 – Jan 2020
 •	Overall GPA: 3.05 /4.00 
 
 •	Coursework: Accounting, Financial Management, Financial Analysis, Quantitative Methods for Business, Microeconomics, Macroeconomics, Marketing, E-Business & Mobile Application, Project Management, Database Design & Administration, Web Development, Business Programming, Business Law, History of Lebanon
-|
+
 
 **Technical Baccalaureate in Information Technology**
 
