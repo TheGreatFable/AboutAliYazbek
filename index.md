@@ -36,7 +36,7 @@ Mr. Ali is passionate about improving clients' financial well-being with offers,
 In case you need summary, here it is:
 
 ```
-Highest Level Achieved: MBA | FHEQ Level 7
+Highest Level Achieved: Master | FHEQ Level 7
 3 Graduate/Postgraduate Degrees: MBA, MSc, PGDip
 1 Undergraduate Degree: BS
 1 Technical Degree: TechBacc
@@ -102,30 +102,31 @@ Al Kafaat Technical Institut – Department of Management and Information Techno
 •	Coursework: English, Arabic, French, Law, Social Sciences, Quantitative management, Financial mathematics, Math, Computer graphics, Applied computing, Applied computing and OPL, Introduction to the algorithm, Introduction to the algorithm and programming 1, Programming 2, Introduction and practice to networks, Practice the web, Practice in operating systems, Networks and internet, Maintenance methodology, Assembly of computers, Computer Technology
 
 
-## Certifications: Main Certifications {#option1}
+## Certifications {#option1}
 
 Bloomberg Market Concepts (BMC) | Oct 2020 | [Link](https://portal.bloombergforeducation.com/certificates/HkhNi3ex8dQ1tr8CXtBKocjd)
 
 ### 1. Additional Certifications & Qualifications {#option2}
 
-Cisco Academy Cybersecurity Pathway: Cyberthreat Management, Network Defence, Endpoint Security, IoT | May 2022 | [Link](https://www.credly.com/users/mraliyazbek)
-TryHackMe Pentesting Principles, Hash Hacker, OWASP, Windows and Linux PrivEsc | May 2022 | [Link](https://tryhackme.com/p/TheGreatFable)
-Accenture Digital Skills: Web Analytics | May 2022 | [Link](https://www.futurelearn.com/certificates/jespaa2)
-Microsoft Protect Enterprise Information with Microsoft 365, Model Data in Power BI | May 2022 | [Link](https://learn.microsoft.com/en-us/users/aliyazbek/achievements)
-LinkedIn Learning Become an IT Support Technician, Data Analyst, Financial Analyst, Bookkeeper | Sep 2021 | [Link](https://drive.google.com/drive/folders/1xw8PqLu4ZZMQaRKMJ6jT7e6Oa954d0d1?usp=share_link)
-HackerRank C# & Python (Basic) | May 2021 | [Link](https://www.hackerrank.com/certificates/iframe/ca0b7858db0f) [Link](https://www.hackerrank.com/certificates/iframe/a2af5f56c154)
+Cisco Network Academy | Cybersecurity Pathway: Cyberthreat Management, Network Defence, Endpoint Security, IoT | May 2022 | [Link](https://www.credly.com/users/mraliyazbek)
+TryHackMe | Pentesting Principles, Hash Hacker, OWASP, Windows and Linux PrivEsc | May 2022 | [Link](https://tryhackme.com/p/TheGreatFable)
+FutureLearn | Accenture, Digital Skills: Web Analytics  | May 2022 | [Link](https://www.futurelearn.com/certificates/jespaa2)
+Microsoft Docs | Protect Enterprise Information with Microsoft 365, Model Data in Power BI | May 2022 | [Link](https://learn.microsoft.com/en-us/users/aliyazbek/achievements)
+LinkedIn Learning | Become an IT Support Technician, Data Analyst, Financial Analyst, Bookkeeper | Sep 2021 | [Link](https://drive.google.com/drive/folders/1xw8PqLu4ZZMQaRKMJ6jT7e6Oa954d0d1?usp=share_link)
+HackerRank | C# & Python (Basic) | May 2021 | [Link](https://www.hackerrank.com/certificates/iframe/ca0b7858db0f) [Link](https://www.hackerrank.com/certificates/iframe/a2af5f56c154)
 
-### 2. Virtual Experience Programs at *Forage* [Link](https://www.theforage.com/profile/ThSTMa8PDLbYGjBXq?ref=ThSTMa8PDLbYGjBXq)
+### 2. Virtual Experience Programs at *Forage* 
 
-JPMorgan Chase & Co. Corporate Analyst Development Program (CADP) Virtual Experience Program at Forage | Sep 2022
-PwC Switzerland Corporate Tax Virtual Case Experience at Forage | Sep 2022 
-Latham & Watkins Mergers & Acquisitions Virtual Experience Program at Forage | Sep 2022 
-Electronic Arts (EA) Software Engineering Virtual Experience Program at Forage | Sep 2022 
-Boston Consulting Group (BCG) Strategy Consulting Virtual Experience Program at Forage | Sep 2022 
-Amazon Web Services (AWS) APAC Solutions Architect Virtual Experience Program at Forage | Jun 2022 
-Visa Token Service Technology Virtual Experience Program at Forage | Jun 2022 
-Mastercard Cybersecurity Virtual Experience Program at Forage | Jun 2022 
-Goldman Sachs Excel Skills for Business Virtual Experience Program at Forage | Jun 2022 
+Forage Profile [Link](https://www.theforage.com/profile/ThSTMa8PDLbYGjBXq?ref=ThSTMa8PDLbYGjBXq)
+JPMorgan Chase & Co. Corporate Analyst Development Program (CADP) Virtual Experience Program | Sep 2022
+PwC Switzerland Corporate Tax Virtual Case Experience | Sep 2022 
+Latham & Watkins Mergers & Acquisitions Virtual Experience Program | Sep 2022 
+Electronic Arts (EA) Software Engineering Virtual Experience Program | Sep 2022 
+Boston Consulting Group (BCG) Strategy Consulting Virtual Experience Program | Sep 2022 
+Amazon Web Services (AWS) APAC Solutions Architect Virtual Experience Program | Jun 2022 
+Visa Token Service Technology Virtual Experience Program | Jun 2022 
+Mastercard Cybersecurity Virtual Experience Program | Jun 2022 
+Goldman Sachs Excel Skills for Business Virtual Experience Program | Jun 2022 
 
 ### 3. Language Certifications
 
