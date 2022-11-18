@@ -109,10 +109,15 @@ Bloomberg Market Concepts (BMC) | Oct 2020 | [Link](https://portal.bloombergfore
 ### 1. Additional Certifications & Qualifications {#option2}
 
 Cisco Network Academy | Cybersecurity Pathway: Cyberthreat Management, Network Defence, Endpoint Security, IoT | May 2022 | [Link](https://www.credly.com/users/mraliyazbek)
+
 TryHackMe | Pentesting Principles, Hash Hacker, OWASP, Windows and Linux PrivEsc | May 2022 | [Link](https://tryhackme.com/p/TheGreatFable)
+
 FutureLearn | Accenture, Digital Skills: Web Analytics  | May 2022 | [Link](https://www.futurelearn.com/certificates/jespaa2)
+
 Microsoft Docs | Protect Enterprise Information with Microsoft 365, Model Data in Power BI | May 2022 | [Link](https://learn.microsoft.com/en-us/users/aliyazbek/achievements)
+
 LinkedIn Learning | Become an IT Support Technician, Data Analyst, Financial Analyst, Bookkeeper | Sep 2021 | [Link](https://drive.google.com/drive/folders/1xw8PqLu4ZZMQaRKMJ6jT7e6Oa954d0d1?usp=share_link)
+
 HackerRank | C# & Python (Basic) | May 2021 | [Link](https://www.hackerrank.com/certificates/iframe/ca0b7858db0f) [Link](https://www.hackerrank.com/certificates/iframe/a2af5f56c154)
 
 ### 2. Virtual Experience Programs at *Forage* 
@@ -120,18 +125,28 @@ HackerRank | C# & Python (Basic) | May 2021 | [Link](https://www.hackerrank.com/
 Forage Profile [Link](https://www.theforage.com/profile/ThSTMa8PDLbYGjBXq?ref=ThSTMa8PDLbYGjBXq)
 
 JPMorgan Chase & Co. Corporate Analyst Development Program (CADP) Virtual Experience Program | Sep 2022
+
 PwC Switzerland Corporate Tax Virtual Case Experience | Sep 2022 
+
 Latham & Watkins Mergers & Acquisitions Virtual Experience Program | Sep 2022 
+
 Electronic Arts (EA) Software Engineering Virtual Experience Program | Sep 2022 
+
 Boston Consulting Group (BCG) Strategy Consulting Virtual Experience Program | Sep 2022 
+
 Amazon Web Services (AWS) APAC Solutions Architect Virtual Experience Program | Jun 2022 
+
 Visa Token Service Technology Virtual Experience Program | Jun 2022 
+
 Mastercard Cybersecurity Virtual Experience Program | Jun 2022 
+
 Goldman Sachs Excel Skills for Business Virtual Experience Program | Jun 2022 
+
 
 ### 3. Language Certifications
 
 Education First (EF) Standard English Test, Result: 72/100 – C2 | Sep 2022 | [Link](https://www.efset.org/cert/65Zuvs)
+
 International English Language Testing System (IELTS) Academic for UKVI, Score: 6.0 – B2 | Jan 2020 
 
 
