@@ -33,37 +33,40 @@ Mr. Ali is passionate about improving clients' financial well-being with offers,
 
 ## Eduction
 
-In case you need abbreviations, here they are:
+In case you need summary, here it is:
 
 ```
-MBA, MSc, PGDip, BSc, TechBacc
+Highest Level Achieved: MBA | FHEQ Level 7
+3 Graduate/Postgraduate Degrees: MBA, MSc, PGDip
+1 Undergraduate Degree: BS
+1 Technical Degree: TechBacc
 ```
 
-**Master of Business Administratio - MBA in Management Information Systems**
+**Master of Business Administratio (MBA) in Management Information Systems**
 
 Sagesse University – Faculty of Economics and Business Administration 
 
-Beirut, Lebanon, Feb 2022 – Jan 2024
+*Beirut, Lebanon, Feb 2022 – Jan 2024*
 
 •	Coursework: Advanced Managerial Finance, Advanced Managerial Accounting, Advanced Organizational Behavior & Leadership, Strategic Marketing Management, Network Security Management
 
 
-**Master’s Degree in Business Informatics (MIAGE)**
+**Master of Science (MSc) in Business Informatics (MIAGE)**
 
 University of Bordeaux – College of Law, Political Science, Economics and Management
 
-Bordeaux, France, Feb 2022 – Jan 2024
+*Bordeaux, France, Feb 2022 – Jan 2024*
 
 •	Specialisation: Information System and Business Intelligence 
 
 •	Coursework: Application Development & ERP, Software Rights & Computer Auditing, Research Methods, Data Analysis & Knowledge Discovery, Decision Support & Business Intelligence Systems, Software Architecture
 
 
-**Postgraduate Diploma in Finance**
+**Postgraduate Diploma (PGDip) in Finance**
 
 Kingston University – Kingston Business School 	
 
-London, United Kingdom, Sep 2020 – Sep 2021
+*London, United Kingdom, Sep 2020 – Sep 2021*
 
 •	Overall Classification: with Merit 
 
@@ -72,11 +75,11 @@ London, United Kingdom, Sep 2020 – Sep 2021
 •	Coursework: Financial Accounting, Corporate Finance, Financial Statement Analysis, Fixed Income Analysis, Portfolio Theory, Investment Banking, Financial Modeling, Research Methods
 
 
-**Bachelor of Science in Management Information Systems**
+**Bachelor of Science (BS) in Management Information Systems**
 
 Sagesse University – Faculty of Economics and Business Administration
 
-Beirut, Lebanon, Sep 2015 – Jan 2020
+*Beirut, Lebanon, Sep 2015 – Jan 2020*
 
 •	Minor: Business Administration 
 
@@ -85,15 +88,15 @@ Beirut, Lebanon, Sep 2015 – Jan 2020
 •	Coursework: Accounting, Financial Management, Financial Analysis, Quantitative Methods for Business, Microeconomics, Macroeconomics, Marketing, E-Business & Mobile Application, Project Management, Database Design & Administration, Web Development, Business Programming, Business Law, History of Lebanon
 
 
-**Technical Baccalaureate in Information Technology**
+**Technical Baccalaureate (TechBacc) in Information Technology**
 
-Al Kafaat Technical Institut – Department of Management and Information Technology
+Al Kafaat Technical Institut – Department of Management and Information Technology | [Website](https://itk.edu.lb/)
 
-Beirut, Lebanon, Sep 2012 – Jul 2015
+*Beirut, Lebanon, Sep 2012 – Jul 2015*
 
 •	Total Grade: 12.32 /20 
 
-•	Completed a 300-hour English Language Program under the auspice of the State University of New York  | [Link](https://drive.google.com/)
+•	Completed a 300-hour English Language Program under the auspice of the State University of New York | [Link](https://drive.google.com/)
 
 •	Coursework: Statistics & Mathematics, Sociology, Law, Computer Technology, Collection of Computer Parts, Computer Maintenance, Programming
 
@@ -102,7 +105,7 @@ Beirut, Lebanon, Sep 2012 – Jul 2015
 
 Bloomberg Market Concepts (BMC) | Oct 2020 | [Link](https://portal.bloombergforeducation.com/certificates/HkhNi3ex8dQ1tr8CXtBKocjd)
 
-### 1. Additional Qualifications {#option2}
+### 1. Additional Certifications & Qualifications {#option2}
 
 Cisco Academy Cybersecurity Pathway: Cyberthreat Management, Network Defence, Endpoint Security, IoT | May 2022 | [Link]
 TryHackMe Pentesting Principles, Hash Hacker, OWASP, Windows and Linux PrivEsc | May 2022 | [Link]
@@ -129,7 +132,7 @@ Education First (EF) Standard English Test, Result: 72/100 – C2 | Sep 2022 | [
 International English Language Testing System (IELTS) Academic for UKVI, Score: 6.0 – B2 | Jan 2020 | [Link]
 
 
-## Technical Skills
+## Skills
 
 •	Extensive academic experience in research, quantitative analysis, financial reporting, and financial modelling.
 
@@ -152,9 +155,9 @@ International English Language Testing System (IELTS) Academic for UKVI, Score: 
 •	Proficient with Microsoft Excel (vlookup, pivot tables, price forecasting, asset/firm valuation (binomial lattice model, DCF, FCF, CAPM, Fama-French multi-factor model), capital structure evaluation (WACC), macros).
 
 
-## Projects
+## Portfolio & Projects
 
-Kingston University Finance Portfolio: Includes financial reports and the dissertation. [Google Drive](https://drive.google.com/)
+Kingston University Finance Portfolio: Includes financial reports and the dissertation. [Google Drive](https://drive.google.com/drive/folders/1BqRqx0JxTXE6cVCIy99jm3WW7Vl0KLgF?usp=share_link)
 
 Insurance Company Database Project: Developed and designed an SQL database that includes personal client information and policy data of an imaginary insurance company. Utilized SQL within SQL Server Management Studio and VB.NET within Visual Studio. *Available at my GitHub Page*.
 
@@ -168,7 +171,7 @@ Numerical Translator Application: Designed an algorithm that converts decimal nu
 **Beginner:** Italian, German, Spanish, Japanese
 
 
-## Main Publications
+## Publications
 
 •	Investigating the correlation of volatility movements in eight cryptocurrencies (September 1, 2021). Available at [SSRN](https://ssrn.com/abstract=4020551). SSRN Top 10 List as of 17 March 2022.
 
@@ -212,4 +215,4 @@ Current Address: Beirut, Lebanon | [Google Maps](https://maps.google.com/)
 
 ## More
 
-The content here is just a resume. For other details about me, see the Concact and Social Media sections.
+The content here is just a resume. For more details about me, see the Concact and Social Media sections.
