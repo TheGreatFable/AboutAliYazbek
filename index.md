@@ -36,11 +36,17 @@ Mr. Ali is passionate about improving clients' financial well-being with offers,
 In case you need summary, here it is:
 
 ```
+
 Highest Level Achieved: MBA | FHEQ Level 7
+
 3 Graduate/Postgraduate Degrees: MBA, MSc, PGDip
+
 1 Undergraduate Degree: BS
+
 1 Technical Degree: TechBacc
+
 ```
+
 
 **Master of Business Administratio (MBA) in Management Information Systems**
 
@@ -49,6 +55,7 @@ Sagesse University – Faculty of Economics and Business Administration
 *Beirut, Lebanon, Feb 2022 – Jan 2024*
 
 •	Coursework: Advanced Managerial Finance, Advanced Managerial Accounting, Advanced Organizational Behavior & Leadership, Strategic Marketing Management, Network Security Management
+
 
 
 **Master of Science (MSc) in Business Informatics (MIAGE)**
@@ -60,6 +67,7 @@ University of Bordeaux – College of Law, Political Science, Economics and Mana
 •	Specialisation: Information System and Business Intelligence 
 
 •	Coursework: Application Development & ERP, Software Rights & Computer Auditing, Research Methods, Data Analysis & Knowledge Discovery, Decision Support & Business Intelligence Systems, Software Architecture
+
 
 
 **Postgraduate Diploma (PGDip) in Finance**
@@ -75,6 +83,7 @@ Kingston University – Kingston Business School
 •	Coursework: Financial Accounting, Corporate Finance, Financial Statement Analysis, Fixed Income Analysis, Portfolio Theory, Investment Banking, Financial Modeling, Research Methods
 
 
+
 **Bachelor of Science (BS) in Management Information Systems**
 
 Sagesse University – Faculty of Economics and Business Administration
@@ -88,15 +97,16 @@ Sagesse University – Faculty of Economics and Business Administration
 •	Coursework: Accounting, Financial Management, Financial Analysis, Quantitative Methods for Business, Microeconomics, Macroeconomics, Marketing, E-Business & Mobile Application, Project Management, Database Design & Administration, Web Development, Business Programming, Business Law, History of Lebanon
 
 
+
 **Technical Baccalaureate (TechBacc) in Information Technology**
 
-Al Kafaat Technical Institut – Department of Management and Information Technology | [Website](https://itk.edu.lb/)
+Al Kafaat Technical Institut – Department of Management and Information Technology  [Website](https://itk.edu.lb/)
 
 *Beirut, Lebanon, Sep 2012 – Jul 2015*
 
 •	Total Grade: 12.32 /20 
 
-•	Completed a 300-hour English Language Program under the auspice of the State University of New York | [Link](https://drive.google.com/)
+•	Completed a 300-hour English Language Program under the auspice of the State University of New York  [Link](https://drive.google.com/)
 
 •	Coursework: Statistics & Mathematics, Sociology, Law, Computer Technology, Collection of Computer Parts, Computer Maintenance, Programming
 
@@ -112,7 +122,7 @@ TryHackMe Pentesting Principles, Hash Hacker, OWASP, Windows and Linux PrivEsc |
 Accenture Digital Skills: Web Analytics | May 2022 | [Link]
 Microsoft Protect Enterprise Information with Microsoft 365, Model Data in Power BI | May 2022 | [Link]
 LinkedIn Learning Become an IT Support Technician, Data Analyst, Financial Analyst, Bookkeeper | Sep 2021 | [Link]
-HackerRank C# & Python (Basic) | May 2021
+HackerRank C# & Python (Basic) | May 2021 | [Link]
 
 ### 2. Virtual Experience Programs at *Forage*
 
@@ -159,9 +169,9 @@ International English Language Testing System (IELTS) Academic for UKVI, Score: 
 
 Kingston University Finance Portfolio: Includes financial reports and the dissertation. [Google Drive](https://drive.google.com/drive/folders/1BqRqx0JxTXE6cVCIy99jm3WW7Vl0KLgF?usp=share_link)
 
-Insurance Company Database Project: Developed and designed an SQL database that includes personal client information and policy data of an imaginary insurance company. Utilized SQL within SQL Server Management Studio and VB.NET within Visual Studio. *Available at my GitHub Page*.
+Insurance Company Database Project: Developed and designed an SQL database that includes personal client information and policy data of an imaginary insurance company. Utilized SQL within SQL Server Management Studio and VB.NET within Visual Studio. *Available at GitHub*.
 
-Numerical Translator Application: Designed an algorithm that converts decimal numbers into the alphabetic format with choices of three languages (English, Arabic, and Russian). Utilized VB.NET language with GUI in Visual Studio. *Available at my GitHub Page*.
+Numerical Translator Application: Designed an algorithm that converts decimal numbers into the alphabetic format with choices of three languages (English, Arabic, and Russian). Utilized VB.NET language with GUI in Visual Studio. *Available at GitHub*.
 
 
 ## Languages
@@ -180,7 +190,9 @@ Numerical Translator Application: Designed an algorithm that converts decimal nu
 
 ## Interests & Hobbies
 
-**Hobbies:** Hiking, swimming, basketball, travelling, video gaming, geohistory, art, professional photography, sketching
+**Hobbies:** 
+
+Hiking, swimming, basketball, travelling, video gaming, geohistory, art, professional photography, sketching
 
 **Competitive Sport:**
 
@@ -193,13 +205,16 @@ Hiked “Qurnat as Sawda”, the highest mountain in the Levant (July 2018).
 ## Contact
 
 Email: [yazbekali97@gmail.com](mailto:yazbekali97@gmail.com)
+
 Telegram: @mraliyazbek
 
 
 ## Social Media
 
 [LinkedIn](https://www.linkedin.com/in/ali-yazbek/)
+
 [GitHub](https://github.com/TheGreatFable)
+
 [Google Scholar](https://scholar.google.com/citations?user=mUPk_wQAAAAJ&hl=en)
 
 
@@ -210,7 +225,7 @@ Citizenships: Lebanese, Russian
 
 Date of Birth: 08 June 1997
 
-Current Address: Beirut, Lebanon | [Google Maps](https://maps.google.com/)
+Current Address: Beirut, Lebanon [Google Maps](https://maps.google.com/)
 
 
 ## More
