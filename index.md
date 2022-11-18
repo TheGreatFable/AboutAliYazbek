@@ -11,7 +11,7 @@ Follow these sections to see the resume.
 
 ## Download the CV
 
-Download the CV from the [Google Drive](https://drive.google.com/).
+Download the CV as Word File from the [Google Drive](https://drive.google.com/).
 
 
 ## Summary
@@ -93,7 +93,7 @@ Beirut, Lebanon, Sep 2012 – Jul 2015
 
 •	Total Grade: 12.32 /20 
 
-•	Completed a 300-hour English Language Program under the auspice of the State University of New York
+•	Completed a 300-hour English Language Program under the auspice of the State University of New York  | [Link](https://drive.google.com/)
 
 •	Coursework: Statistics & Mathematics, Sociology, Law, Computer Technology, Collection of Computer Parts, Computer Maintenance, Programming
 
@@ -104,29 +104,29 @@ Bloomberg Market Concepts (BMC) | Oct 2020 | [Link](https://portal.bloombergfore
 
 ### 1. Additional Qualifications {#option2}
 
-Cisco Academy Cybersecurity Pathway: Cyberthreat Management, Network Defence, Endpoint Security, IoT | May 2022
-TryHackMe Pentesting Principles, Hash Hacker, OWASP, Windows and Linux PrivEsc | May 2022
-Accenture Digital Skills: Web Analytics | May 2022
-Microsoft Protect Enterprise Information with Microsoft 365, Model Data in Power BI | May 2022
-LinkedIn Learning Become an IT Support Technician, Data Analyst, Financial Analyst, Bookkeeper | Sep 2021
+Cisco Academy Cybersecurity Pathway: Cyberthreat Management, Network Defence, Endpoint Security, IoT | May 2022 | [Link]
+TryHackMe Pentesting Principles, Hash Hacker, OWASP, Windows and Linux PrivEsc | May 2022 | [Link]
+Accenture Digital Skills: Web Analytics | May 2022 | [Link]
+Microsoft Protect Enterprise Information with Microsoft 365, Model Data in Power BI | May 2022 | [Link]
+LinkedIn Learning Become an IT Support Technician, Data Analyst, Financial Analyst, Bookkeeper | Sep 2021 | [Link]
 HackerRank C# & Python (Basic) | May 2021
 
 ### 2. Virtual Experience Programs at *Forage*
 
-JPMorgan Chase & Co. Corporate Analyst Development Program (CADP) Virtual Experience Program at Forage | Sep 2022
-PwC Switzerland Corporate Tax Virtual Case Experience at Forage | Sep 2022
-Latham & Watkins Mergers & Acquisitions Virtual Experience Program at Forage | Sep 2022
-Electronic Arts (EA) Software Engineering Virtual Experience Program at Forage | Sep 2022
-Boston Consulting Group (BCG) Strategy Consulting Virtual Experience Program at Forage | Sep 2022
-Amazon Web Services (AWS) APAC Solutions Architect Virtual Experience Program at Forage | Jun 2022
-Visa Token Service Technology Virtual Experience Program at Forage | Jun 2022
-Mastercard Cybersecurity Virtual Experience Program at Forage | Jun 2022
-Goldman Sachs Excel Skills for Business Virtual Experience Program at Forage | Jun 2022
+JPMorgan Chase & Co. Corporate Analyst Development Program (CADP) Virtual Experience Program at Forage | Sep 2022 | [Link]
+PwC Switzerland Corporate Tax Virtual Case Experience at Forage | Sep 2022 | [Link]
+Latham & Watkins Mergers & Acquisitions Virtual Experience Program at Forage | Sep 2022 | [Link]
+Electronic Arts (EA) Software Engineering Virtual Experience Program at Forage | Sep 2022 | [Link]
+Boston Consulting Group (BCG) Strategy Consulting Virtual Experience Program at Forage | Sep 2022 | [Link]
+Amazon Web Services (AWS) APAC Solutions Architect Virtual Experience Program at Forage | Jun 2022 | [Link]
+Visa Token Service Technology Virtual Experience Program at Forage | Jun 2022 | [Link]
+Mastercard Cybersecurity Virtual Experience Program at Forage | Jun 2022 | [Link]
+Goldman Sachs Excel Skills for Business Virtual Experience Program at Forage | Jun 2022 | [Link]
 
 ### 3. Language Certifications
 
-Education First (EF) Standard English Test, Result: 72/100 – C2 | Sep 2022
-International English Language Testing System (IELTS) Academic for UKVI, Score: 6.0 – B2 | Jan 2020
+Education First (EF) Standard English Test, Result: 72/100 – C2 | Sep 2022 | [Link]
+International English Language Testing System (IELTS) Academic for UKVI, Score: 6.0 – B2 | Jan 2020 | [Link]
 
 
 ## Technical Skills
@@ -156,22 +156,16 @@ International English Language Testing System (IELTS) Academic for UKVI, Score: 
 
 Kingston University Finance Portfolio: Includes financial reports and the dissertation. [Google Drive](https://drive.google.com/)
 
-Insurance Company Database Project: Developed and designed an SQL database that includes personal client information and policy data of an imaginary insurance company. Utilized SQL within SQL Server Management Studio and VB.NET within Visual Studio.
+Insurance Company Database Project: Developed and designed an SQL database that includes personal client information and policy data of an imaginary insurance company. Utilized SQL within SQL Server Management Studio and VB.NET within Visual Studio. *Available at my GitHub Page*.
 
-Numerical Translator Application: Designed an algorithm that converts decimal numbers into the alphabetic format with choices of three languages (English, Arabic, and Russian). Utilized VB.NET language with GUI in Visual Studio.
-
-Power BI Demo: Visualized Excel workbooks, original built-in samples, Power BI reports, sample apps, and financial data.
+Numerical Translator Application: Designed an algorithm that converts decimal numbers into the alphabetic format with choices of three languages (English, Arabic, and Russian). Utilized VB.NET language with GUI in Visual Studio. *Available at my GitHub Page*.
 
 
 ## Languages
 
-**Fluent:**
+**Fluent:** English, French, Arabic, Russian
 
-English, French, Arabic, Russian
-
-**Beginner:**
-
-Italian, German, Spanish, Japanese
+**Beginner:** Italian, German, Spanish, Japanese
 
 
 ## Main Publications
@@ -183,9 +177,7 @@ Italian, German, Spanish, Japanese
 
 ## Interests & Hobbies
 
-**Hobbies:** 
-
-Hiking, swimming, basketball, travelling, video gaming, geohistory, art, professional photography, sketching
+**Hobbies:** Hiking, swimming, basketball, travelling, video gaming, geohistory, art, professional photography, sketching
 
 **Competitive Sport:**
 
@@ -197,23 +189,25 @@ Hiked “Qurnat as Sawda”, the highest mountain in the Levant (July 2018).
 
 ## Contact
 
-Email: [yazbekali.fable@gmail.com](mailto:yazbekali.fable@gmail.com)
+Email: [yazbekali97@gmail.com](mailto:yazbekali97@gmail.com)
+Telegram: @mraliyazbek
 
 
 ## Social Media
 
 [LinkedIn](https://www.linkedin.com/in/ali-yazbek/)
-
 [GitHub](https://github.com/TheGreatFable)
+[Google Scholar](https://scholar.google.com/citations?user=mUPk_wQAAAAJ&hl=en)
+
 
 
 ## Other Information
 
-Citizenship: 
-Lebanon
+Citizenships: Lebanese, Russian
 
-Date of Birth:
-08 June 1997
+Date of Birth: 08 June 1997
+
+Current Address: Beirut, Lebanon | [Google Maps](https://maps.google.com/)
 
 
 ## More
