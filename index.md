@@ -11,12 +11,12 @@ Follow these sections to see Ali's qualifications.
 
 ## Resume
 
-If you need Ali's CV/Resume as a Word or PDF File, contact Mr. Ali via Email: [yazbekali97@gmail.com](mailto:yazbekali97@gmail.com).
+If you would like to receive Ali's CV/Resume as a Word or PDF File, contact Mr. Ali via Email: [yazbekali97@gmail.com](mailto:yazbekali97@gmail.com).
 
 
 ## Summary
 
-Ali Yazbek is a multicultural diplomatic entrepreneur, strategic financier, and information technology specialist. He is a highly qualified individual with impressive enterprise systems, international corporate law, marketing, investments, and financial services expertise.
+Ali Yazbek is a multicultural diplomatic entrepreneur, strategic financier, and information technology specialist. He is highly qualified with unique enterprise systems, international corporate law, marketing, investments, and financial services expertise.
 
 His main specialities are: 
 - Financial Risk Assessment 
@@ -31,7 +31,7 @@ Mr. Ali is passionate about improving clients' financial well-being with offers,
 
 ## Eduction
 
-In case you need summary, here it is:
+In case you need a summary, here it is:
 
 ```
 Highest Level Achieved: Master | FHEQ Level 7
@@ -41,7 +41,7 @@ Highest Level Achieved: Master | FHEQ Level 7
 ```
 
 
-**Master of Business Administratio (MBA) in Management Information Systems**
+**Master of Business Administration (MBA) in Management Information Systems**
 
 Sagesse University – Faculty of Economics and Business Administration  [Website](https://uls.edu.lb/fr/faculty/business-administration-finance)
 
@@ -152,21 +152,21 @@ International English Language Testing System (IELTS) Academic for UKVI, Score: 
 
 •	Extensive academic experience in research, quantitative analysis, financial reporting, and financial modelling.
 
-•	Excellent knowledge of different asset classes including equities (stocks), fixed income securities (bonds), derivatives, commodities, futures, funds, real estate, fiat currencies, cryptocurrencies, and cash equivalents.
+•	Excellent knowledge of different asset classes including equities (stocks), fixed-income securities (bonds), derivatives, commodities, futures, funds, real estate, fiat currencies, cryptocurrencies, and cash equivalents.
 
 •	Strong understanding of general ledger, accounts payable, accounts receivable, and other financial areas.
 
 •	Good knowledge of financial statement preparation including income statements, balance sheets, cash flow statements, and statements of shareholders’ equity according to GAAP and IFRS.
 
-•	Intermediate programming skills with knowledge of C/C++/C#, SQL, VB.NET, Java, JavaScript, PHP, HTML, CSS.
+•	Intermediate programming skills with knowledge of C/C++/C#, SQL, VB.NET, Java, JavaScript, PHP, HTML, and CSS.
 
-•	Outstanding knowledge of Operating Systems including, Windows OS XP/7/10/11, Server 2012/2016/2019, MacOS, iOS/iPadOS, Android, and Linux.
+•	Outstanding knowledge of Operating Systems including, Windows OS XP/7/10/11, Server 2012/2016/2019, macOS, iOS/iPad, Android, and Linux.
 
 •	Advanced IT/computer, troubleshooting, and maintenance skills.
 
-•	Excellent understanding of network technologies including, LAN/MAN/WAN, TCP/IP, DHCP, DNS, IP Addressing, VPN, switching, routing, wired and wireless access.
+•	Excellent understanding of network technologies including, LAN/MAN/WAN, TCP/IP, DHCP, DNS, IP Addressing, VPN, switching, routing, and wired and wireless access.
 
-•	Experience using MS Office 365, Visual Studio, SQL Server Management Studio (SSMS), Power BI, EViews.
+•	Experience using MS Office 365, Visual Studio, SQL Server Management Studio (SSMS), Power BI, and EViews.
 
 •	Proficient with Microsoft Excel (vlookup, pivot tables, price forecasting, asset/firm valuation (binomial lattice model, DCF, FCF, CAPM, Fama-French multi-factor model), capital structure evaluation (WACC), macros).
 
@@ -175,9 +175,9 @@ International English Language Testing System (IELTS) Academic for UKVI, Score: 
 
 Kingston University Finance Portfolio: Includes financial reports and the dissertation. [Google Drive](https://drive.google.com/drive/folders/1BqRqx0JxTXE6cVCIy99jm3WW7Vl0KLgF?usp=share_link)
 
-Insurance Company Database Project: Developed and designed an SQL database that includes personal client information and policy data of an imaginary insurance company. Utilized SQL within SQL Server Management Studio and VB.NET within Visual Studio. *Available at GitHub*.
+Insurance Company Database Project: Developed and designed an SQL database that includes an imaginary insurance company's personal client information and policy data. Utilized SQL within SQL Server Management Studio and VB.NET within Visual Studio. *Available at GitHub*.
 
-Numerical Translator Application: Designed an algorithm that converts decimal numbers into the alphabetic format with choices of three languages (English, Arabic, and Russian). Utilized VB.NET language with GUI in Visual Studio. *Available at GitHub*.
+Numerical Translator Application: Designed an algorithm that converts decimal numbers into the alphabetic format with choices from three languages (English, Arabic, and Russian). Utilized VB.NET language with GUI in Visual Studio. *Available at GitHub*.
 
 
 ## Languages
@@ -217,7 +217,12 @@ Telegram: @mraliyazbek
 
 ## More
 
-The content here is just a resume. For more details about me, see the Concact and Social Media sections.
+The content here is just a resume. For more details about me, see the Contact and Social Media sections.
 
 
-<script src="https://tryhackme.com/badge/1106682"></script> <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ali-yazbek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/ali-yazbek?trk=profile-badge">Ali Yazbek</a></div> <a href="https://stackoverflow.com/users/15548483/ali-yazbek"><img src="https://stackoverflow.com/users/flair/15548483.png" width="208" height="58" alt="profile for Ali Yazbek at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ali Yazbek at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<script src="https://tryhackme.com/badge/1106682"></script> 
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ali-yazbek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/ali-yazbek?trk=profile-badge">Ali Yazbek</a></div> 
+
+<a href="https://stackoverflow.com/users/15548483/ali-yazbek"><img src="https://stackoverflow.com/users/flair/15548483.png" width="208" height="58" alt="profile for Ali Yazbek at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ali Yazbek at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
