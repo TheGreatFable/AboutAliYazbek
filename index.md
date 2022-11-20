@@ -220,8 +220,4 @@ Telegram: @mraliyazbek
 The content here is just a resume. For more details about me, see the Concact and Social Media sections.
 
 
-<script src="https://tryhackme.com/badge/1106682"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ali-yazbek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/ali-yazbek?trk=profile-badge">Ali Yazbek</a></div>
-
-<a href="https://stackoverflow.com/users/15548483/ali-yazbek"><img src="https://stackoverflow.com/users/flair/15548483.png" width="208" height="58" alt="profile for Ali Yazbek at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ali Yazbek at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<script src="https://tryhackme.com/badge/1106682"></script> <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ali-yazbek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/ali-yazbek?trk=profile-badge">Ali Yazbek</a></div> <a href="https://stackoverflow.com/users/15548483/ali-yazbek"><img src="https://stackoverflow.com/users/flair/15548483.png" width="208" height="58" alt="profile for Ali Yazbek at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ali Yazbek at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
