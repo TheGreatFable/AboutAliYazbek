@@ -214,6 +214,7 @@ Telegram: @mraliyazbek
 
 [Google Scholar](https://scholar.google.com/citations?user=mUPk_wQAAAAJ&hl=en)
 
+[Twitter](https://twitter.com/MrAliYazbek)
 
 ## More
 
