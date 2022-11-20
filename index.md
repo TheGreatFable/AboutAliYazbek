@@ -5,7 +5,7 @@ summary: This is Ali's Personal Webpage.
 ---
 
 
-## Ali Yazbek アリ・ヤズベク علي يزبك Али Язбек
+## Ali Yazbek アリ・ヤズベク علي يزبك
 
 Follow these sections to see Ali's qualifications.
 
