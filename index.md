@@ -9,7 +9,7 @@ summary: This is Ali's Personal Webpage.
 
 Follow these sections to see Ali's qualifications.
 
-## CV/Resume
+## Resume
 
 If you would like to receive Ali's CV/resume in Word or PDF format, please contact Mr. Ali via email: [yazbekali97@gmail.com](mailto:yazbekali97@gmail.com).
 
