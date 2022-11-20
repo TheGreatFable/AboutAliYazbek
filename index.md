@@ -19,12 +19,12 @@ If you would like to receive Ali's CV/resume in Word or PDF format, please conta
 Ali Yazbek is a multicultural entrepreneur, strategic financier and information technology professional. He is highly qualified in enterprise systems, international corporate law, marketing, investment and financial services.
 
 His main specialties:
-- Assessment of financial risks
-- System administration of databases
-- Business intelligence analysis
-- Consulting on corporate strategy
-- Portfolio optimization
-- Information technology management
+- Financial Risk Assessment 
+- Database System Administration
+- Business Intelligence Analysis
+- Corporate Strategy Consulting
+- Portfolio Optimization
+- Information Technology Management
 
 Mr. Ali is passionate about improving the financial well-being of clients with offers, products and services they love.
 
@@ -146,6 +146,8 @@ Goldman Sachs Excel Skills for Business Virtual Experience Program | Jun 2022
 Education First (EF) Standard English Test, Result: 72/100 – C2 | Sep 2022 | [Link](https://www.efset.org/cert/65Zuvs)
 
 International English Language Testing System (IELTS) Academic for UKVI, Score: 6.0 – B2 | Jan 2020 
+
+International English Language Testing System (IELTS) Academic, Score: 6.0 – B2 | Oct 2018
 
 
 ## Skills
