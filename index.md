@@ -5,9 +5,9 @@ summary: This is Ali's personal webpage.
 ---
 
 
-## Ali Yazbek's Curriculum Vitae
+## Ali Yazbek
 
-Follow these sections to see the resume.
+Follow these sections to see Ali's qualifications.
 
 ## Download the CV
 
@@ -16,17 +16,16 @@ If you need the CV as a Word or PDF File, contact Mr Ali via Email: [yazbekali97
 
 ## Summary
 
-Ali Yazbek is a multicultural entrepreneur, financier, and IT specialist. He is a highly qualified individual with impressive diplomatic, strategic, and administrative expertise.
-
-He is well-versed in all aspects of enterprise systems, international corporate law, marketing, investments, and financial services areas. 
+Ali Yazbek is a multicultural diplomatic entrepreneur, strategic financier, and information technology specialist. 
+He is a highly qualified individual with impressive enterprise systems, international corporate law, marketing, investments, and financial services expertise.
 
 His main specialities are: 
--	Financial Risk Assessment 
--	Database System Administration
--	Business Intelligence Analysis
--	Corporate Strategy Consulting
--	Portfolio Optimization
--	Information Technology Management
+- Financial Risk Assessment 
+- Database System Administration
+- Business Intelligence Analysis
+- Corporate Strategy Consulting
+- Portfolio Optimization
+- Information Technology Management
 
 Mr. Ali is passionate about improving clients' financial well-being with offers, products, and services they adore.
 
@@ -49,7 +48,7 @@ Sagesse University – Faculty of Economics and Business Administration  [Websit
 
 *Beirut, Lebanon, Feb 2022 – Jan 2024*
 
-•	Coursework: Management of Electronic Commerce, Network Security Management, Strategic Marketing Management, Advanced Organizational Behavior & Leadership, Advanced Managerial Accounting, Advanced Managerial Finance, Business Research Methods
+•	Courses: Management of Electronic Commerce, Network Security Management, Strategic Marketing Management, Advanced Organizational Behavior & Leadership, Advanced Managerial Accounting, Advanced Managerial Finance, Business Research Methods
 
 
 **Master of Science (MSc) in Business Informatics (MIAGE)**
@@ -60,7 +59,7 @@ University of Bordeaux – College of Law, Political Science, Economics and Mana
 
 •	Specialisation: Information System and Business Intelligence 
 
-•	Coursework: Decision Support & Business Intelligence Systems, Data Analysis and Knowledge Discovery, Application Development and ERP, Software Rights & Computer Auditing, Software Architecture and Mobile Programming
+•	Courses: Decision Support & Business Intelligence Systems, Data Analysis and Knowledge Discovery, Application Development and ERP, Software Rights & Computer Auditing, Software Architecture and Mobile Programming
 
 
 **Postgraduate Diploma (PGDip) in Finance**
@@ -73,7 +72,7 @@ Kingston University – Kingston Business School 	[Website](https://www.kingston
 
 •	Dissertation: “Investigating the correlation of volatility movements in eight cryptocurrencies”
 
-•	Coursework: Japanese Level 1, Financial Accounting and Financial Management, Corporate Finance and Financial Statement Analysis, Portfolio Theory and Investment Banking, Financial Modelling and Research Methods, Market-Based Accounting, Fixed Income Analysis
+•	Courses: Japanese Level 1, Financial Accounting and Financial Management, Corporate Finance and Financial Statement Analysis, Portfolio Theory and Investment Banking, Financial Modelling and Research Methods, Market-Based Accounting, Fixed Income Analysis
 
 
 **Bachelor of Science (BS) in Management Information Systems**
@@ -86,7 +85,7 @@ Sagesse University – Faculty of Economics and Business Administration  [Websit
 
 •	Overall GPA: 3.05 /4.00 
 
-•	Coursework: Basic French, Intensive French, French I, French II, English I, English II, Writing Skills, Sophomore Rhetoric for Business, Business Law, Algebra and Statistics, Analysis, Business Math, Quantitative Methods for Business, General Economics, Principles of Microeconomics, Principles of Macroeconomics, Principles of Management, Principles of Marketing, Principles of Accounting I, Principles of Accounting II, Financial Analysis, Financial Management, Computer Skills, Advanced Computer Skills, Discrete Structures for MIS, Business Information Systems, Systems Analysis & Design, MIS Project Management, Networking and Telecommunications, Database Design & Administration, Essentials of Java Programming for Business, Business Programming I, Business Programming II, Business Programming Project, Web Application & Development, E-Business and Mobile Technology, Italian Language I, Introduction to Nutrition, Judaism, Christianity & Islam, Modern History of Lebanon
+•	Courses: Basic French, Intensive French, French I, French II, English I, English II, Writing Skills, Sophomore Rhetoric for Business, Business Law, Algebra and Statistics, Analysis, Business Math, Quantitative Methods for Business, General Economics, Principles of Microeconomics, Principles of Macroeconomics, Principles of Management, Principles of Marketing, Principles of Accounting I, Principles of Accounting II, Financial Analysis, Financial Management, Computer Skills, Advanced Computer Skills, Discrete Structures for MIS, Business Information Systems, Systems Analysis & Design, MIS Project Management, Networking and Telecommunications, Database Design & Administration, Essentials of Java Programming for Business, Business Programming I, Business Programming II, Business Programming Project, Web Application & Development, E-Business and Mobile Technology, Italian Language I, Introduction to Nutrition, Judaism, Christianity & Islam, Modern History of Lebanon
 
 
 **Technical Baccalaureate (TechBacc) in Information Technology**
@@ -99,7 +98,7 @@ Al Kafaat Technical Institut – Department of Management and Information Techno
 
 •	Completed a 300-hour English Language Program under the auspice of the State University of New York
 
-•	Coursework: English, Arabic, French, Law, Social Sciences, Quantitative management, Financial mathematics, Math, Computer graphics, Applied computing, Applied computing and OPL, Introduction to the algorithm, Introduction to the algorithm and programming 1, Programming 2, Introduction and practice to networks, Practice the web, Practice in operating systems, Networks and internet, Maintenance methodology, Assembly of computers, Computer Technology
+•	Courses: English, Arabic, French, Law, Social Sciences, Quantitative management, Financial mathematics, Math, Computer graphics, Applied computing, Applied computing and OPL, Introduction to the algorithm, Introduction to the algorithm and programming 1, Programming 2, Introduction and practice to networks, Practice the web, Practice in operating systems, Networks and internet, Maintenance methodology, Assembly of computers, Computer Technology
 
 
 ## Certifications {#option1}
@@ -160,7 +159,7 @@ International English Language Testing System (IELTS) Academic for UKVI, Score: 
 
 •	Good knowledge of financial statement preparation including income statements, balance sheets, cash flow statements, and statements of shareholders’ equity according to GAAP and IFRS.
 
-•	Intermediate programming skills with knowledge of C/C++/C#, SQL, VB.NET, Java/JavaScript, PHP, HTML, CSS.
+•	Intermediate programming skills with knowledge of C/C++/C#, SQL, VB.NET, Java, JavaScript, PHP, HTML, CSS.
 
 •	Outstanding knowledge of Operating Systems including, Windows OS XP/7/10/11, Server 2012/2016/2019, MacOS, iOS/iPadOS, Android, and Linux.
 
@@ -200,19 +199,6 @@ Italian, German, Spanish, Japanese
 •	Implementing a custom ERP in nine months and on budget with Cisco Systems (September 1, 2022). Available at [SSRN](https://ssrn.com/abstract=4020551).
 
 
-## Interests & Hobbies
-
-**Hobbies:** 
-
-Hiking, swimming, basketball, travelling, video gaming, geohistory, art, professional photography, sketching
-
-**Competitive Sport:**
-
-Keen runner and have completed the 2017 Beirut Youth Marathon and the 2018 Beirut Half Marathon. 
-
-Hiked “Qurnat as Sawda”, the highest mountain in the Levant (July 2018).
-
-
 
 ## Contact
 
@@ -230,17 +216,10 @@ Telegram: @mraliyazbek
 [Google Scholar](https://scholar.google.com/citations?user=mUPk_wQAAAAJ&hl=en)
 
 
-
-## Other Information
-
-Citizenships: Lebanese, Russian
-
-Date of Birth: 08 June 1997
-
-Current Address: Beirut, Lebanon [Google Maps](https://www.google.com/maps/@33.8721713,35.5220109,13z)
-
-NHS COVID Pass: Vaccinated
-
 ## More
 
 The content here is just a resume. For more details about me, see the Concact and Social Media sections.
+
+
+<script src="https://tryhackme.com/badge/1106682"></script>
+
