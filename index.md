@@ -223,3 +223,5 @@ The content here is just a resume. For more details about me, see the Concact an
 
 <script src="https://tryhackme.com/badge/1106682"></script>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
