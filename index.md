@@ -9,15 +9,14 @@ summary: This is Ali's personal webpage.
 
 Follow these sections to see Ali's qualifications.
 
-## Download the CV
+## Resume
 
-If you need the CV as a Word or PDF File, contact Mr Ali via Email: [yazbekali97@gmail.com](mailto:yazbekali97@gmail.com).
+If you need Ali's CV/Resume as a Word or PDF File, contact Mr. Ali via Email: [yazbekali97@gmail.com](mailto:yazbekali97@gmail.com).
 
 
 ## Summary
 
-Ali Yazbek is a multicultural diplomatic entrepreneur, strategic financier, and information technology specialist. 
-He is a highly qualified individual with impressive enterprise systems, international corporate law, marketing, investments, and financial services expertise.
+Ali Yazbek is a multicultural diplomatic entrepreneur, strategic financier, and information technology specialist. He is a highly qualified individual with impressive enterprise systems, international corporate law, marketing, investments, and financial services expertise.
 
 His main specialities are: 
 - Financial Risk Assessment 
@@ -172,7 +171,7 @@ International English Language Testing System (IELTS) Academic for UKVI, Score: 
 •	Proficient with Microsoft Excel (vlookup, pivot tables, price forecasting, asset/firm valuation (binomial lattice model, DCF, FCF, CAPM, Fama-French multi-factor model), capital structure evaluation (WACC), macros).
 
 
-## Portfolio & Projects
+## Projects
 
 Kingston University Finance Portfolio: Includes financial reports and the dissertation. [Google Drive](https://drive.google.com/drive/folders/1BqRqx0JxTXE6cVCIy99jm3WW7Vl0KLgF?usp=share_link)
 
@@ -223,5 +222,6 @@ The content here is just a resume. For more details about me, see the Concact an
 
 <script src="https://tryhackme.com/badge/1106682"></script>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ali-yazbek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/ali-yazbek?trk=profile-badge">Ali Yazbek</a></div>
+
+<a href="https://stackoverflow.com/users/15548483/ali-yazbek"><img src="https://stackoverflow.com/users/flair/15548483.png" width="208" height="58" alt="profile for Ali Yazbek at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ali Yazbek at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
