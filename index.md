@@ -1,37 +1,37 @@
 ---
 title: "Welcome"
 permalink: index.html
-summary: This is Ali's personal webpage.
+summary: This is Ali's Personal Webpage.
 ---
 
 
-## Ali Yazbek
+## Ali Yazbek アリ・ヤズベク علي يزبك Али Язбек
 
 Follow these sections to see Ali's qualifications.
 
-## Resume
+## CV/Resume
 
-If you would like to receive Ali's CV/Resume as a Word or PDF File, contact Mr. Ali via Email: [yazbekali97@gmail.com](mailto:yazbekali97@gmail.com).
+If you would like to receive Ali's CV/resume in Word or PDF format, please contact Mr. Ali via email: [yazbekali97@gmail.com](mailto:yazbekali97@gmail.com).
 
 
 ## Summary
 
-Ali Yazbek is a multicultural diplomatic entrepreneur, strategic financier, and information technology specialist. He is highly qualified with unique enterprise systems, international corporate law, marketing, investments, and financial services expertise.
+Ali Yazbek is a multicultural entrepreneur, strategic financier and information technology professional. He is highly qualified in enterprise systems, international corporate law, marketing, investment and financial services.
 
-His main specialities are: 
-- Financial Risk Assessment 
-- Database System Administration
-- Business Intelligence Analysis
-- Corporate Strategy Consulting
-- Portfolio Optimization
-- Information Technology Management
+His main specialties:
+- Assessment of financial risks
+- System administration of databases
+- Business intelligence analysis
+- Consulting on corporate strategy
+- Portfolio optimization
+- Information technology management
 
-Mr. Ali is passionate about improving clients' financial well-being with offers, products, and services they adore.
+Mr. Ali is passionate about improving the financial well-being of clients with offers, products and services they love.
 
 
 ## Eduction
 
-In case you need a summary, here it is:
+If you need a summary, here it is:
 
 ```
 Highest Level Achieved: Master | FHEQ Level 7
@@ -104,7 +104,7 @@ Al Kafaat Technical Institut – Department of Management and Information Techno
 
 Bloomberg Market Concepts (BMC) | Oct 2020 | [Link](https://portal.bloombergforeducation.com/certificates/HkhNi3ex8dQ1tr8CXtBKocjd)
 
-### 1. Additional Certifications & Qualifications {#option2}
+### 1. Additional Certifications {#option2}
 
 Cisco Network Academy | Cybersecurity Pathway: Cyberthreat Management, Network Defence, Endpoint Security, IoT | May 2022 | [Link](https://www.credly.com/users/mraliyazbek)
 
