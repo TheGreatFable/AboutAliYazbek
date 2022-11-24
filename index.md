@@ -14,6 +14,15 @@ Graduated from Kingston Business School in London. He then pursued an MBA from t
 Mr. Ali is passionate about improving the financial well-being of clients with offers, products and services.
 
 
+## Professional Experience
+
+STAND BY
+In Progress.
+TBD
+...
+k:)...
+...
+
 ## Education
 
 ```
@@ -22,6 +31,13 @@ Highest Level Achieved: Master | FHEQ Level 7
 1 Undergraduate Degree: BS
 1 Technical Degree: TechBacc
 ```
+
+**Doctor of Philosophy (PhD) in Computer Science**
+
+University is TBD - Faculty TBD []()
+
+Country TBD, Date TBD
+
 
 **Master of Business Administration (MBA) in Management Information Systems**
 
@@ -66,7 +82,7 @@ Sagesse University – Faculty of Economics and Business Administration  [Websit
 
 •	Overall GPA: 3.05 /4.00 
 
-•	Coursework: Basic French, Intensive French, French I, French II, English I, English II, Writing Skills, Sophomore Rhetoric for Business, Business Law, Algebra and Statistics, Analysis, Business Math, Quantitative Methods for Business, General Economics, Principles of Microeconomics, Principles of Macroeconomics, Principles of Management, Principles of Marketing, Principles of Accounting I, Principles of Accounting II, Financial Analysis, Financial Management, Computer Skills, Advanced Computer Skills, Discrete Structures for MIS, Business Information Systems, Systems Analysis & Design, MIS Project Management, Networking and Telecommunications, Database Design & Administration, Essentials of Java Programming for Business, Business Programming I, Business Programming II, Business Programming Project, Web Application & Development, E-Business and Mobile Technology, Italian Language I, Introduction to Nutrition, Judaism, Christianity & Islam, Modern History of Lebanon
+•	Courses: Basic French, Intensive French, French I, French II, English I, English II, Writing Skills, Sophomore Rhetoric for Business, Business Law, Algebra and Statistics, Analysis, Business Math, Quantitative Methods for Business, General Economics, Principles of Microeconomics, Principles of Macroeconomics, Principles of Management, Principles of Marketing, Principles of Accounting I, Principles of Accounting II, Financial Analysis, Financial Management, Computer Skills, Advanced Computer Skills, Discrete Structures for MIS, Business Information Systems, Systems Analysis & Design, MIS Project Management, Networking and Telecommunications, Database Design & Administration, Essentials of Java Programming for Business, Business Programming I, Business Programming II, Business Programming Project, Web Application & Development, E-Business and Mobile Technology, Italian Language I, Introduction to Nutrition, Judaism, Christianity & Islam, Modern History of Lebanon
 
 
 **Technical Baccalaureate (TechBacc) in Information Technology**
@@ -79,7 +95,7 @@ Al Kafaat Technical Institut – Department of Management and Information Techno
 
 •	Completed a 300-hour English Language Program under the auspice of the State University of New York
 
-•	Coursework: English, Arabic, French, Law, Social Sciences, Quantitative management, Financial mathematics, Math, Computer graphics, Applied computing, Applied computing and OPL, Introduction to the algorithm, Introduction to the algorithm and programming 1, Programming 2, Introduction and practice to networks, Practice the web, Practice in operating systems, Networks and internet, Maintenance methodology, Assembly of computers, Computer Technology
+•	Courses: English, Arabic, French, Law, Social Sciences, Quantitative management, Financial mathematics, Math, Computer graphics, Applied computing, Applied computing and OPL, Introduction to the algorithm, Introduction to the algorithm and programming 1, Programming 2, Introduction and practice to networks, Practice the web, Practice in operating systems, Networks and internet, Maintenance methodology, Assembly of computers, Computer Technology
 
 
 ## Certifications {#option1}
@@ -129,6 +145,8 @@ Education First (EF) Standard English Test, Result: 72/100 – C2 | Sep 2022 | [
 
 International English Language Testing System (IELTS) Academic for UKVI, Score: 6.0 – B2 | Jan 2020 
 
+International English Language Testing System (IELTS) Academic, Score: 6.0 – B2 | Oct 2018 
+
 
 ## Skills
 
@@ -157,11 +175,11 @@ International English Language Testing System (IELTS) Academic for UKVI, Score: 
 
 ## Portfolio & Projects
 
-Kingston University, Finance Portfolio: Includes financial reports and the dissertation. [Google Drive](https://drive.google.com/drive/folders/1BqRqx0JxTXE6cVCIy99jm3WW7Vl0KLgF?usp=share_link)
+**Kingston University, Finance Portfolio:** Includes financial reports and the dissertation. [Google Drive](https://drive.google.com/drive/folders/1BqRqx0JxTXE6cVCIy99jm3WW7Vl0KLgF?usp=share_link)
 
-Sagesse University, Insurance Company Database Project: Developed and designed an SQL database that includes an imaginary insurance company's personal client information and policy data. Utilized SQL within SQL Server Management Studio and VB.NET within Visual Studio. *Available at GitHub*.
+**Sagesse University, Insurance Company Database Project:** Developed and designed an SQL database that includes an imaginary insurance company's personal client information and policy data. Utilized SQL within SQL Server Management Studio and VB.NET within Visual Studio. *Available at GitHub*.
 
-Sagesse University, Numerical Translator Application: Designed an algorithm that converts decimal numbers into the alphabetic format using three languages (English, Arabic, and Russian). Utilized VB.NET language with GUI in Visual Studio. *Available at GitHub*.
+**Sagesse University, Numerical Translator Application:** Designed an algorithm that converts decimal numbers into the alphabetic format using three languages (English, Arabic, and Russian). Utilized VB.NET language with GUI in Visual Studio. *Available at GitHub*.
 
 
 ## Languages
