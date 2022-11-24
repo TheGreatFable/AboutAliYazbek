@@ -7,19 +7,11 @@ summary: This is Ali's Personal Webpage.
 
 ## Ali Yazbek
 
-Ali Yazbek is a multicultural entrepreneur, financier, and information technology specialist. He is a highly qualified individual with impressive diplomatic, strategic, and administrative expertise.
+Ali M. Yazbek is a multicultural entrepreneur, financier, and information technology professional. He is a highly qualified individual specializing in enterprise systems, business intelligence, investments and financial services. He has knowledge in the areas of financial risk assessment, database system administration, business intelligence analysis, portfolio optimization and information technology management.
 
-He is well-versed in all aspects of enterprise systems, business intelligence, investments, and financial services areas. 
+Graduated from Kingston Business School in London. He then pursued an MBA from the University of Sagesse and a MIAGE degree from the University of Bordeaux. He also planned to get his PhD from a reputable research institution.
 
-His main specialities are: 
--	Financial Risk Assessment 
--	Database System Administration
--	Business Intelligence Analysis
--	Corporate Strategy Consulting
--	Portfolio Optimization
--	Information Technology Management
-
-Ali is passionate about improving clients' financial well-being with offers, products, and services they adore.
+Mr. Ali is passionate about improving the financial well-being of clients with offers, products and services.
 
 
 ## Eduction
@@ -28,32 +20,30 @@ Ali is passionate about improving clients' financial well-being with offers, pro
 
 Sagesse University – Faculty of Economics and Business Administration  [Website](https://uls.edu.lb/fr/faculty/business-administration-finance)
 
-*Beirut, Lebanon, Feb 2022 – Jan 2024*
+*Beirut, Lebanon, 2022 – 2024*
 
 
 **Master of Science (MSc) in Business Informatics (MIAGE)**
 
-University of Bordeaux – College of Law, Political Science, Economics and Management  [Website](https://miage.emi.u-bordeaux.fr/)
+University of Bordeaux – College of Science and Technology - College of Law, Political Science, Economics and Management - UF d'Informatique and IAE  [Website](https://miage.emi.u-bordeaux.fr/)
 
-*Bordeaux, France, Feb 2022 – Jan 2024*
+*Bordeaux, France, 2022 – 2024*
 
 •	Specialisation: Information System and Business Intelligence 
 
 
 **Postgraduate Diploma (PGDip) in Finance**
 
-Kingston University – Kingston Business School 	[Website](https://www.kingston.ac.uk/postgraduate/courses/finance-msc/)
+Kingston University – Kingston Business School - Faculty of Business and Social Sciences 	[Website](https://www.kingston.ac.uk/postgraduate/courses/finance-msc/)
 
-*London, United Kingdom, Sep 2020 – Sep 2021* 
-
-•	Dissertation: “Investigating the correlation of volatility movements in eight cryptocurrencies”
+*London, United Kingdom, 2020 – 2021* 
 
 
 **Bachelor of Science (BS) in Management Information Systems**
 
 Sagesse University – Faculty of Economics and Business Administration  [Website](https://uls.edu.lb/fr/faculty/business-administration-finance)
 
-*Beirut, Lebanon, Sep 2015 – Jan 2020*
+*Beirut, Lebanon, 2015 – 2020*
 
 •	Minor: Business Administration
 
@@ -62,60 +52,32 @@ Sagesse University – Faculty of Economics and Business Administration  [Websit
 
 Al Kafaat Technical Institut – Department of Management and Information Technology  [Website](https://itk.edu.lb/)
 
-*Beirut, Lebanon, Sep 2012 – Jul 2015*
-
-•	Completed a 300-hour English Language Program under the auspice of the State University of New York
+*Beirut, Lebanon, 2012 – 2015*
 
 
 ## Certifications
 
 Bloomberg Market Concepts (BMC) | Oct 2020 | [Link](https://portal.bloombergforeducation.com/certificates/HkhNi3ex8dQ1tr8CXtBKocjd)
 
-Cisco Network Academy | Cybersecurity Pathway: Cyberthreat Management, Network Defence, Endpoint Security, IoT | May 2022 | [Link](https://www.credly.com/users/mraliyazbek)
-
-TryHackMe | Pentesting Principles, Hash Hacker, OWASP, Windows and Linux PrivEsc | May 2022 | [Link](https://tryhackme.com/p/TheGreatFable)
-
-FutureLearn | Accenture, Digital Skills: Web Analytics  | May 2022 | [Link](https://www.futurelearn.com/certificates/jespaa2)
-
-Microsoft Docs | Protect Enterprise Information with Microsoft 365, Model Data in Power BI | May 2022 | [Link](https://learn.microsoft.com/en-us/users/aliyazbek/achievements)
-
-LinkedIn Learning | Become an IT Support Technician, Data Analyst, Financial Analyst, Bookkeeper | Sep 2021 | [Link](https://drive.google.com/drive/folders/1xw8PqLu4ZZMQaRKMJ6jT7e6Oa954d0d1?usp=share_link)
-
-HackerRank | C# & Python (Basic) | May 2021 | [Link](https://www.hackerrank.com/certificates/iframe/ca0b7858db0f) [Link](https://www.hackerrank.com/certificates/iframe/a2af5f56c154)
-
-
-## Publications
-
-•	Investigating the correlation of volatility movements in eight cryptocurrencies (September 1, 2021). Available at [SSRN](https://ssrn.com/abstract=4020551). SSRN Top 10 List as of 17 March 2022.
-
-•	Implementing a custom ERP in nine months and on budget with Cisco Systems (September 1, 2022). Available at [SSRN](https://ssrn.com/abstract=4020551).
-
-
 
 ## Contact
 
 Email: [yazbekali97@gmail.com](mailto:yazbekali97@gmail.com)
 
-Telegram: @mraliyazbek
-
 
 ## Social Media
 
-[LinkedIn](https://www.linkedin.com/in/ali-yazbek/)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ali-yazbek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/ali-yazbek?trk=profile-badge">Ali Yazbek</a></div> 
+[Google Scholar](https://scholar.google.com/citations?user=mUPk_wQAAAAJ&hl=en)
+
+[GitHub](https://github.com/TheGreatFable)
 
 [Twitter](https://twitter.com/MrAliYazbek)
 
-[GitHub](https://github.com/TheGreatFable)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ali-yazbek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/ali-yazbek?trk=profile-badge">Ali Yazbek</a></div> 
 
 <script src="https://tryhackme.com/badge/1106682"></script> 
 
 <a href="https://stackoverflow.com/users/15548483/ali-yazbek"><img src="https://stackoverflow.com/users/flair/15548483.png" width="208" height="58" alt="profile for Ali Yazbek at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ali Yazbek at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-[Google Scholar](https://scholar.google.com/citations?user=mUPk_wQAAAAJ&hl=en)
-
-
-
 
 
