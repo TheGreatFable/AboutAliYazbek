@@ -7,21 +7,12 @@ summary: This is Ali's Personal Webpage.
 
 ## Ali Yazbek
 
-Ali M. Yazbek is a multicultural entrepreneur, financier, and information technology professional. He is a highly qualified individual specializing in enterprise systems, business intelligence, investments and financial services. He has knowledge in the areas of financial risk assessment, database system administration, business intelligence analysis, portfolio optimization and information technology management.
+Ali M. Yazbek is a multicultural entrepreneur, financier, and information technology professional. He is a highly qualified individual specializing in enterprise systems, business intelligence, investments and financial services. He has knowledge in the areas of database system administration, business intelligence analysis, portfolio optimization and information technology management.
 
-Graduated from Kingston Business School in London. He then pursued an MBA from the University of Sagesse and a MIAGE degree from the University of Bordeaux. He also planned to get his PhD from a reputable research institution.
+Graduated from Kingston Business School in London. He then pursued an MBA from the University of Sagesse and a MIAGE degree from the University of Bordeaux.
 
 Mr. Ali is passionate about improving the financial well-being of clients with offers, products and services.
 
-
-## Professional Experience
-
-STAND BY
-In Progress.
-TBD
-...
-k:)...
-...
 
 ## Education
 
@@ -31,12 +22,6 @@ Highest Level Achieved: Master | FHEQ Level 7
 1 Undergraduate Degree: BS
 1 Technical Degree: TechBacc
 ```
-
-**Doctor of Philosophy (PhD) in Computer Science**
-
-University is TBD - Faculty TBD []()
-
-Country TBD, Date TBD
 
 
 **Master of Business Administration (MBA) in Management Information Systems**
@@ -197,14 +182,14 @@ Italian, German, Spanish, Japanese
 
 •	Investigating the correlation of volatility movements in eight cryptocurrencies (September 1, 2021). Available at [SSRN](https://ssrn.com/abstract=4020551). SSRN Top 10 List as of 17 March 2022.
 
-•	Implementing a custom ERP in nine months and on budget with Cisco Systems (September 1, 2022). Available at [SSRN](https://ssrn.com/abstract=4020551).
+•	Implementing a custom ERP in nine months and on budget with Cisco Systems (September 1, 2022). Available at [SSRN](https://papers.ssrn.com/abstract=4113315).
 
 
 ## Interests & Hobbies
 
 **Hobbies:** 
 
-Hiking, swimming, travelling, video gaming, geohistory, astrophysics, art, professional photography, sketching
+Hiking, swimming, travelling, video gaming, sketching
 
 **Competitive Sport:**
 
@@ -224,8 +209,6 @@ Telegram: @mraliyazbek
 
 [Google Scholar](https://scholar.google.com/citations?user=mUPk_wQAAAAJ&hl=en)
 
-[Amazon Author](https://www.amazon.com/author/aliyazbek)
-
 [Twitter](https://twitter.com/MrAliYazbek)
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
@@ -233,17 +216,7 @@ Telegram: @mraliyazbek
 
 [GitHub](https://github.com/TheGreatFable)
 
-<a href="https://stackoverflow.com/users/15548483/ali-yazbek"><img src="https://stackoverflow.com/users/flair/15548483.png" width="208" height="58" alt="profile for Ali Yazbek at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ali Yazbek at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 <script src="https://tryhackme.com/badge/1106682"></script> 
-
-[HackerOne](https://hackerone.com/thegreatfable)
-
-[BugCrowd](https://bugcrowd.com/TheGreatFable)
-
-[HackTheBox](https://app.hackthebox.com/profile/1050032)
-
-[Medium](https://medium.com/@aliyazbek)
 
 
 
@@ -265,8 +238,6 @@ NHS COVID Pass: Vaccinated
 [Patreon](https://www.patreon.com/MrAliYazbek)
 
 Etherium: 0x90977D87060923D751222C74BDDec10a573C9b2C
-
-Bitcoin: TBD
 
 
 
